@@ -1,0 +1,34 @@
+{
+  "ComponentEnabled": true,
+  "PollingIntervalInMilliseconds": 500,
+  "StateUpdateIntervalInMilliseconds": 500,
+  "GameVariables": {
+    "StartingGoldPerPlayer": 500,
+    "Grubs": {
+      "FirstSpawn": 360,
+      "Respawn": 240,
+      "TakeTimeForSecondRespawn": 585,
+      "Despawn": 825,
+      "DespawnInCombat": 835
+    },
+    "Herald": {
+      "FirstSpawn": 840,
+      "Despawn": 1185,
+      "DespawnInCombat": 1195
+    },
+    "Baron": {
+      "FirstSpawn": 1200,
+      "Respawn": 360
+    },
+    "Dragon": {
+      "FirstSpawn": 300,
+      "Respawn": 300,
+      "ElderRespawn": 360
+    },
+    "PlatesDroppingTime": 840,
+    "InhibitorRespawnTime": 300
+  },
+  "LbLibSocketPort": 4999,
+  "LbLibAutoInit": true,
+  "DoCameraTracking": false
+}

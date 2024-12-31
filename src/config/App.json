@@ -1,0 +1,10 @@
+{
+  "useNativeWindowHeader": false,
+  "port": 5000,
+  "loggingLevel": 1,
+  "appLocale": "en-US",
+  "logsToKeep": 10,
+  "checkForUpdates": true,
+  "lastSkippedVersion": "0.0.0",
+  "telemetryUpdateRateInMs": 5000
+}

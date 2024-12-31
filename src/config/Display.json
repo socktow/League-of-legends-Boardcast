@@ -1,0 +1,23 @@
+{
+  "playerFullnameDisplayFormat": "{givenName} \u0022{alias}\u0022 {familyName}",
+  "colorConfig": {
+    "sideColors": [
+      {
+        "primary": "#126D6BFF",
+        "secondary": "#126D6BFF"
+      },
+      {
+        "primary": "#692B27FF",
+        "secondary": "#692B27FF"
+      }
+    ],
+    "primary": "#FFFFFFFF",
+    "secondary": "#000000FF",
+    "background": "#04001AFF",
+    "separator": "#7DB999FF",
+    "useTeamPrimaryColors": false,
+    "useTeamSecondaryColors": false,
+    "useTeamBackgroundColors": false
+  },
+  "currentMainIconUri": "cache/style/mainIcon.png"
+}

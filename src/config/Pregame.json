@@ -1,0 +1,8 @@
+{
+  "LcuPollingIntervalInSeconds": 1,
+  "ChampionSelectPollingIntervalInSeconds": 0.33333334,
+  "Mocking": {
+    "LoopChampionSelect": true,
+    "LoopChampionSelectDowntime": 0
+  }
+}

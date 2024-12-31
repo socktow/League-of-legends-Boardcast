@@ -1,0 +1,9 @@
+{
+  "CommunityDragonRawUrl": "https://raw.communitydragon.org",
+  "DataDragonCDN": "https://ddragon.leagueoflegends.com/cdn",
+  "Locale": "en_US",
+  "Region": "global",
+  "Patches": [
+    "latest"
+  ]
+}
