@@ -1,0 +1,43 @@
+{
+  "id": 33,
+  "alias": "Rammus",
+  "name": "Rammus",
+  "attackSpeed": 0.656,
+  "splashCenteredImg": "cache/game/14.24/champion/Rammus/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Rammus/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Rammus/loading.png",
+  "squareImg": "cache/game/14.24/champion/Rammus/square.png",
+  "spells": [
+    {
+      "spellName": "PowerBall",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_powerball.png",
+      "iconName": "armordillo_powerball.png"
+    },
+    {
+      "spellName": "PowerBallCancel",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_powerball.png",
+      "iconName": "armordillo_powerball.png"
+    },
+    {
+      "spellName": "DefensiveBallCurl",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_shellbash.png",
+      "iconName": "armordillo_shellbash.png"
+    },
+    {
+      "spellName": "PuncturingTaunt",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_scaledplating.png",
+      "iconName": "armordillo_scaledplating.png"
+    },
+    {
+      "spellName": "Tremors2",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_recklesscharge.png",
+      "iconName": "armordillo_recklesscharge.png"
+    },
+    {
+      "spellName": "RammusP",
+      "iconAsset": "cache/game/14.24/champion/Rammus/abilities/armordillo_scavengearmor.png",
+      "iconName": "armordillo_scavengearmor.png",
+      "isPassive": true
+    }
+  ]
+}

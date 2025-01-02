@@ -1,0 +1,48 @@
+{
+  "id": 14,
+  "alias": "Sion",
+  "name": "Sion",
+  "attackSpeed": 0.679,
+  "splashCenteredImg": "cache/game/14.24/champion/Sion/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Sion/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Sion/loading.png",
+  "squareImg": "cache/game/14.24/champion/Sion/square.png",
+  "spells": [
+    {
+      "spellName": "SionR",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_r1.png",
+      "iconName": "sion_r1.png"
+    },
+    {
+      "spellName": "SionPassiveSpeed",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_passive2.png",
+      "iconName": "sion_passive2.png"
+    },
+    {
+      "spellName": "SionQ",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_q.png",
+      "iconName": "sion_q.png"
+    },
+    {
+      "spellName": "SionW",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_w1.png",
+      "iconName": "sion_w1.png"
+    },
+    {
+      "spellName": "SionWDetonate",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_w2.png",
+      "iconName": "sion_w2.png"
+    },
+    {
+      "spellName": "SionE",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_e.png",
+      "iconName": "sion_e.png"
+    },
+    {
+      "spellName": "SionPassive",
+      "iconAsset": "cache/game/14.24/champion/Sion/abilities/sion_passive1.png",
+      "iconName": "sion_passive1.png",
+      "isPassive": true
+    }
+  ]
+}

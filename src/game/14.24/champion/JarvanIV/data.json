@@ -1,0 +1,49 @@
+{
+  "id": 59,
+  "alias": "JarvanIV",
+  "name": "Jarvan IV",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/JarvanIV/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/JarvanIV/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/JarvanIV/loading.png",
+  "squareImg": "cache/game/14.24/champion/JarvanIV/square.png",
+  "spells": [
+    {
+      "spellName": "JarvanIVCataclysmAttack",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivr.png",
+      "iconName": "jarvanivr.png"
+    },
+    {
+      "spellName": "JarvanIVCataclysm",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivr.png",
+      "iconName": "jarvanivr.png"
+    },
+    {
+      "spellName": "JarvanIVDragonStrike",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivq.png",
+      "iconName": "jarvanivq.png"
+    },
+    {
+      "spellName": "JarvanIVGoldenAegis",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivw.png",
+      "iconName": "jarvanivw.png"
+    },
+    {
+      "spellName": "JarvanIVDemacianStandard",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanive.png",
+      "iconName": "jarvanive.png"
+    },
+    {
+      "spellName": "JarvanIVMartialCadence",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivp.png",
+      "iconName": "jarvanivp.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "JarvanIVMartialCadenceAttack",
+      "iconAsset": "cache/game/14.24/champion/JarvanIV/abilities/jarvanivp.png",
+      "iconName": "jarvanivp.png",
+      "isPassive": true
+    }
+  ]
+}

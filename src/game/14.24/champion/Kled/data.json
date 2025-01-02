@@ -1,0 +1,53 @@
+{
+  "id": 240,
+  "alias": "Kled",
+  "name": "Kled",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Kled/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Kled/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Kled/loading.png",
+  "squareImg": "cache/game/14.24/champion/Kled/square.png",
+  "spells": [
+    {
+      "spellName": "KledR",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_r.png",
+      "iconName": "kled_r.png"
+    },
+    {
+      "spellName": "KledQ",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_q1.png",
+      "iconName": "kled_q1.png"
+    },
+    {
+      "spellName": "KledQMissile",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_q.png",
+      "iconName": "kled_q.png"
+    },
+    {
+      "spellName": "KledW",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_w.png",
+      "iconName": "kled_w.png"
+    },
+    {
+      "spellName": "KledE",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_e1.png",
+      "iconName": "kled_e1.png"
+    },
+    {
+      "spellName": "KledE2",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_e2.png",
+      "iconName": "kled_e2.png"
+    },
+    {
+      "spellName": "KledPassive",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_p.png",
+      "iconName": "kled_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KledRiderQ",
+      "iconAsset": "cache/game/14.24/champion/Kled/abilities/kled_q2.png",
+      "iconName": "kled_q2.png"
+    }
+  ]
+}

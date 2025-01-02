@@ -1,0 +1,48 @@
+{
+  "id": 119,
+  "alias": "Draven",
+  "name": "Draven",
+  "attackSpeed": 0.679,
+  "splashCenteredImg": "cache/game/14.24/champion/Draven/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Draven/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Draven/loading.png",
+  "squareImg": "cache/game/14.24/champion/Draven/square.png",
+  "spells": [
+    {
+      "spellName": "DravenRCast",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_whirlingdeath.png",
+      "iconName": "draven_whirlingdeath.png"
+    },
+    {
+      "spellName": "DravenRDoublecast",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_whirlingdeath_recall.png",
+      "iconName": "draven_whirlingdeath_recall.png"
+    },
+    {
+      "spellName": "DravenR",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_whirlingdeath.png",
+      "iconName": "draven_whirlingdeath.png"
+    },
+    {
+      "spellName": "DravenSpinning",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_spinningaxe.png",
+      "iconName": "draven_spinningaxe.png"
+    },
+    {
+      "spellName": "DravenFury",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_bloodrage.png",
+      "iconName": "draven_bloodrage.png"
+    },
+    {
+      "spellName": "DravenDoubleShot",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_twinaxe.png",
+      "iconName": "draven_twinaxe.png"
+    },
+    {
+      "spellName": "DravenPassive",
+      "iconAsset": "cache/game/14.24/champion/Draven/abilities/draven_passive.png",
+      "iconName": "draven_passive.png",
+      "isPassive": true
+    }
+  ]
+}

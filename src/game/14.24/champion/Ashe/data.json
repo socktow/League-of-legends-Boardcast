@@ -1,0 +1,73 @@
+{
+  "id": 22,
+  "alias": "Ashe",
+  "name": "Ashe",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Ashe/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Ashe/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Ashe/loading.png",
+  "squareImg": "cache/game/14.24/champion/Ashe/square.png",
+  "spells": [
+    {
+      "spellName": "AsheQ",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_q.png",
+      "iconName": "ashe_q.png"
+    },
+    {
+      "spellName": "AsheQAttack",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_q_active.png",
+      "iconName": "ashe_q_active.png"
+    },
+    {
+      "spellName": "AsheQAttackNoOnHit",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_q_active.png",
+      "iconName": "ashe_q_active.png"
+    },
+    {
+      "spellName": "Volley",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_w.png",
+      "iconName": "ashe_w.png"
+    },
+    {
+      "spellName": "VolleyRank2",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_w.png",
+      "iconName": "ashe_w.png"
+    },
+    {
+      "spellName": "VolleyRank3",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_w.png",
+      "iconName": "ashe_w.png"
+    },
+    {
+      "spellName": "VolleyRank4",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_w.png",
+      "iconName": "ashe_w.png"
+    },
+    {
+      "spellName": "VolleyRank5",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_w.png",
+      "iconName": "ashe_w.png"
+    },
+    {
+      "spellName": "AsheSpiritOfTheHawk",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_e.png",
+      "iconName": "ashe_e.png"
+    },
+    {
+      "spellName": "AsheSpiritOfTheHawkCast",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_e.png",
+      "iconName": "ashe_e.png"
+    },
+    {
+      "spellName": "EnchantedCrystalArrow",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_r.png",
+      "iconName": "ashe_r.png"
+    },
+    {
+      "spellName": "AshePassive",
+      "iconAsset": "cache/game/14.24/champion/Ashe/abilities/ashe_p.png",
+      "iconName": "ashe_p.png",
+      "isPassive": true
+    }
+  ]
+}

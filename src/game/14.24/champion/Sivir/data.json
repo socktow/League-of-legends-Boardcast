@@ -1,0 +1,43 @@
+{
+  "id": 15,
+  "alias": "Sivir",
+  "name": "Sivir",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Sivir/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Sivir/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Sivir/loading.png",
+  "squareImg": "cache/game/14.24/champion/Sivir/square.png",
+  "spells": [
+    {
+      "spellName": "SivirQ",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_q.png",
+      "iconName": "sivir_q.png"
+    },
+    {
+      "spellName": "SivirQMissile",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_q.png",
+      "iconName": "sivir_q.png"
+    },
+    {
+      "spellName": "SivirW",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_w.png",
+      "iconName": "sivir_w.png"
+    },
+    {
+      "spellName": "SivirE",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_e.png",
+      "iconName": "sivir_e.png"
+    },
+    {
+      "spellName": "SivirR",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_r.png",
+      "iconName": "sivir_r.png"
+    },
+    {
+      "spellName": "SivirPassive",
+      "iconAsset": "cache/game/14.24/champion/Sivir/abilities/sivir_passive.png",
+      "iconName": "sivir_passive.png",
+      "isPassive": true
+    }
+  ]
+}

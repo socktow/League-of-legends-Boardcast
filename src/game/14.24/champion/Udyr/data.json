@@ -1,0 +1,67 @@
+{
+  "id": 77,
+  "alias": "Udyr",
+  "name": "Udyr",
+  "attackSpeed": 0.65,
+  "splashCenteredImg": "cache/game/14.24/champion/Udyr/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Udyr/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Udyr/loading.png",
+  "squareImg": "cache/game/14.24/champion/Udyr/square.png",
+  "spells": [
+    {
+      "spellName": "UdyrR",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_r.png",
+      "iconName": "udyr_r.png"
+    },
+    {
+      "spellName": "UdyrRActivation",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_r.png",
+      "iconName": "udyr_r.png"
+    },
+    {
+      "spellName": "UdyrR2Activation",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_r.png",
+      "iconName": "udyr_r.png"
+    },
+    {
+      "spellName": "UdyrQ",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_q.png",
+      "iconName": "udyr_q.png"
+    },
+    {
+      "spellName": "UdyrQActivation",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_q.png",
+      "iconName": "udyr_q.png"
+    },
+    {
+      "spellName": "UdyrE",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_e.png",
+      "iconName": "udyr_e.png"
+    },
+    {
+      "spellName": "UdyrEActivation",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_e.png",
+      "iconName": "udyr_e.png"
+    },
+    {
+      "spellName": "UdyrEAttack",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_e.png",
+      "iconName": "udyr_e.png"
+    },
+    {
+      "spellName": "UdyrEStunCheck",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_e.png",
+      "iconName": "udyr_e.png"
+    },
+    {
+      "spellName": "UdyrW",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_w.png",
+      "iconName": "udyr_w.png"
+    },
+    {
+      "spellName": "UdyrWActivation",
+      "iconAsset": "cache/game/14.24/champion/Udyr/abilities/udyr_w.png",
+      "iconName": "udyr_w.png"
+    }
+  ]
+}

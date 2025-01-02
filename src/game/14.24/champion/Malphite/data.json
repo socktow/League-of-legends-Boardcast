@@ -1,0 +1,62 @@
+{
+  "id": 54,
+  "alias": "Malphite",
+  "name": "Malphite",
+  "attackSpeed": 0.736,
+  "splashCenteredImg": "cache/game/14.24/champion/Malphite/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Malphite/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Malphite/loading.png",
+  "squareImg": "cache/game/14.24/champion/Malphite/square.png",
+  "spells": [
+    {
+      "spellName": "SeismicShard",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_q.png",
+      "iconName": "malphite_q.png"
+    },
+    {
+      "spellName": "SeismicShardBuff",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_q.png",
+      "iconName": "malphite_q.png"
+    },
+    {
+      "spellName": "SeismicShardReturn",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_q.png",
+      "iconName": "malphite_q.png"
+    },
+    {
+      "spellName": "Obduracy",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_w.png",
+      "iconName": "malphite_w.png"
+    },
+    {
+      "spellName": "MalphiteThunderclap",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_w.png",
+      "iconName": "malphite_w.png"
+    },
+    {
+      "spellName": "MalphiteCleave",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_w.png",
+      "iconName": "malphite_w.png"
+    },
+    {
+      "spellName": "Landslide",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_e.png",
+      "iconName": "malphite_e.png"
+    },
+    {
+      "spellName": "UFSlash",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_r.png",
+      "iconName": "malphite_r.png"
+    },
+    {
+      "spellName": "UnstoppableForceStun",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_r.png",
+      "iconName": "malphite_r.png"
+    },
+    {
+      "spellName": "MalphiteShield",
+      "iconAsset": "cache/game/14.24/champion/Malphite/abilities/malphite_passive.png",
+      "iconName": "malphite_passive.png"
+    }
+  ]
+}

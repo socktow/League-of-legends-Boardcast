@@ -1,0 +1,68 @@
+{
+  "id": 10,
+  "alias": "Kayle",
+  "name": "Kayle",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Kayle/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Kayle/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Kayle/loading.png",
+  "squareImg": "cache/game/14.24/champion/Kayle/square.png",
+  "spells": [
+    {
+      "spellName": "KayleQ",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_q.png",
+      "iconName": "kayle_q.png"
+    },
+    {
+      "spellName": "KayleQMis",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_q.png",
+      "iconName": "kayle_q.png"
+    },
+    {
+      "spellName": "KayleQMisVFX",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_q.png",
+      "iconName": "kayle_q.png"
+    },
+    {
+      "spellName": "KayleW",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_w.png",
+      "iconName": "kayle_w.png"
+    },
+    {
+      "spellName": "KayleWHeal",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_w.png",
+      "iconName": "kayle_w.png"
+    },
+    {
+      "spellName": "KayleE",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_e.png",
+      "iconName": "kayle_e.png"
+    },
+    {
+      "spellName": "KayleEAttack",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_e.png",
+      "iconName": "kayle_e.png"
+    },
+    {
+      "spellName": "KayleEAttackMelee",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_e.png",
+      "iconName": "kayle_e.png"
+    },
+    {
+      "spellName": "KayleEAttackUpgrade",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_e.png",
+      "iconName": "kayle_e.png"
+    },
+    {
+      "spellName": "KayleR",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_r.png",
+      "iconName": "kayle_r.png"
+    },
+    {
+      "spellName": "KaylePassive",
+      "iconAsset": "cache/game/14.24/champion/Kayle/abilities/kayle_p.png",
+      "iconName": "kayle_p.png",
+      "isPassive": true
+    }
+  ]
+}

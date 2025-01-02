@@ -1,0 +1,108 @@
+{
+  "id": 163,
+  "alias": "Taliyah",
+  "name": "Taliyah",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Taliyah/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Taliyah/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Taliyah/loading.png",
+  "squareImg": "cache/game/14.24/champion/Taliyah/square.png",
+  "spells": [
+    {
+      "spellName": "TaliyahR",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRNoClick",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r2.png",
+      "iconName": "taliyah_r2.png"
+    },
+    {
+      "spellName": "TaliyahRBlowUp",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRBlowUpSoundMis",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRCurve",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRMis",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRPreMis",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/bowmaster_enchantedarrow.png",
+      "iconName": "bowmaster_enchantedarrow.png"
+    },
+    {
+      "spellName": "TaliyahRTerrainProto",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r.png",
+      "iconName": "taliyah_r.png"
+    },
+    {
+      "spellName": "TaliyahRSurfOptIn",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r2.png",
+      "iconName": "taliyah_r2.png"
+    },
+    {
+      "spellName": "TaliyahRNoClick",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_r2.png",
+      "iconName": "taliyah_r2.png"
+    },
+    {
+      "spellName": "TaliyahQ",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_q.png",
+      "iconName": "taliyah_q.png"
+    },
+    {
+      "spellName": "TaliyahQMis",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_q.png",
+      "iconName": "taliyah_q.png"
+    },
+    {
+      "spellName": "TaliyahQReturnMis",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_q.png",
+      "iconName": "taliyah_q.png"
+    },
+    {
+      "spellName": "TaliyahQMisBig",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_q.png",
+      "iconName": "taliyah_q.png"
+    },
+    {
+      "spellName": "TaliyahW",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_w.png",
+      "iconName": "taliyah_w.png"
+    },
+    {
+      "spellName": "TaliyahWNoClick",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_w2.png",
+      "iconName": "taliyah_w2.png"
+    },
+    {
+      "spellName": "TaliyahWVC",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_w.png",
+      "iconName": "taliyah_w.png"
+    },
+    {
+      "spellName": "TaliyahE",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_e.png",
+      "iconName": "taliyah_e.png"
+    },
+    {
+      "spellName": "TaliyahPassive",
+      "iconAsset": "cache/game/14.24/champion/Taliyah/abilities/taliyah_passive.png",
+      "iconName": "taliyah_passive.png",
+      "isPassive": true
+    }
+  ]
+}

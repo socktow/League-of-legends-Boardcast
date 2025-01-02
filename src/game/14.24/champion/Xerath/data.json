@@ -1,0 +1,48 @@
+{
+  "id": 101,
+  "alias": "Xerath",
+  "name": "Xerath",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Xerath/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Xerath/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Xerath/loading.png",
+  "squareImg": "cache/game/14.24/champion/Xerath/square.png",
+  "spells": [
+    {
+      "spellName": "XerathLocusOfPower2",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_r1.png",
+      "iconName": "xerath_r1.png"
+    },
+    {
+      "spellName": "XerathRMissileWrapper",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_r1.png",
+      "iconName": "xerath_r1.png"
+    },
+    {
+      "spellName": "XerathLocusPulse",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_r1.png",
+      "iconName": "xerath_r1.png"
+    },
+    {
+      "spellName": "XerathArcanopulseChargeUp",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_q1.png",
+      "iconName": "xerath_q1.png"
+    },
+    {
+      "spellName": "XerathArcaneBarrage2",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_w1.png",
+      "iconName": "xerath_w1.png"
+    },
+    {
+      "spellName": "XerathMageSpear",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_e1.png",
+      "iconName": "xerath_e1.png"
+    },
+    {
+      "spellName": "XerathAscended2",
+      "iconAsset": "cache/game/14.24/champion/Xerath/abilities/xerath_passive1.png",
+      "iconName": "xerath_passive1.png",
+      "isPassive": true
+    }
+  ]
+}

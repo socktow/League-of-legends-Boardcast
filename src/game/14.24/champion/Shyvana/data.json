@@ -1,0 +1,106 @@
+{
+  "id": 102,
+  "alias": "Shyvana",
+  "name": "Shyvana",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Shyvana/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Shyvana/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Shyvana/loading.png",
+  "squareImg": "cache/game/14.24/champion/Shyvana/square.png",
+  "spells": [
+    {
+      "spellName": "ShyvanaTransformCast",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanadragonsdescent.png",
+      "iconName": "shyvanadragonsdescent.png"
+    },
+    {
+      "spellName": "ShyvanaDoubleAttack",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanatwinbite.png",
+      "iconName": "shyvanatwinbite.png"
+    },
+    {
+      "spellName": "ShyvanaDoubleAttackDragon",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanatwinbite.png",
+      "iconName": "shyvanatwinbite.png"
+    },
+    {
+      "spellName": "ShyvanaDoubleAttackHit",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanatwinbite.png",
+      "iconName": "shyvanatwinbite.png"
+    },
+    {
+      "spellName": "ShyvanaDoubleAttackHitDragon",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanatwinbite.png",
+      "iconName": "shyvanatwinbite.png"
+    },
+    {
+      "spellName": "ShyvanaDoubleAttackHitDragon2",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanatwinbite.png",
+      "iconName": "shyvanatwinbite.png"
+    },
+    {
+      "spellName": "ShyvanaImmolationAura",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanascorchedearth.png",
+      "iconName": "shyvanascorchedearth.png"
+    },
+    {
+      "spellName": "ShyvanaImmolateDragon",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanascorchedearth.png",
+      "iconName": "shyvanascorchedearth.png"
+    },
+    {
+      "spellName": "ShyvanaFireball",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaFireballDragon2",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaFireballDragonMissile",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaFireballDragonMissileBig",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaFireballMissile",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaFireballDragonMissileMax",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanaflamebreath.png",
+      "iconName": "shyvanaflamebreath.png"
+    },
+    {
+      "spellName": "ShyvanaPassive",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanareinforcedscales.png",
+      "iconName": "shyvanareinforcedscales.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "ShyvanaPassiveCounter",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanareinforcedscales.png",
+      "iconName": "shyvanareinforcedscales.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "ShyvanaPassiveHA",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanareinforcedscales.png",
+      "iconName": "shyvanareinforcedscales.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "ShyvanaPassiveNB",
+      "iconAsset": "cache/game/14.24/champion/Shyvana/abilities/shyvanareinforcedscales.png",
+      "iconName": "shyvanareinforcedscales.png",
+      "isPassive": true
+    }
+  ]
+}

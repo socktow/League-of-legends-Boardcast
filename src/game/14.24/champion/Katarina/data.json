@@ -1,0 +1,78 @@
+{
+  "id": 55,
+  "alias": "Katarina",
+  "name": "Katarina",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Katarina/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Katarina/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Katarina/loading.png",
+  "squareImg": "cache/game/14.24/champion/Katarina/square.png",
+  "spells": [
+    {
+      "spellName": "KatarinaQ",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_q.png",
+      "iconName": "katarina_q.png"
+    },
+    {
+      "spellName": "KatarinaW",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_w.png",
+      "iconName": "katarina_w.png"
+    },
+    {
+      "spellName": "KatarinaWDaggerArc",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "KatarinaEWrapper",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_e.png",
+      "iconName": "katarina_e.png"
+    },
+    {
+      "spellName": "KatarinaE",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_e.png",
+      "iconName": "katarina_e.png"
+    },
+    {
+      "spellName": "KatarinaEDagger",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_e.png",
+      "iconName": "katarina_e.png"
+    },
+    {
+      "spellName": "KatarinaPassive",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_passive.png",
+      "iconName": "katarina_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KatarinaDaggerPickupPBAoE",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_daggerspin.png",
+      "iconName": "katarina_daggerspin.png"
+    },
+    {
+      "spellName": "KatarinaPickupPBAoE",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_daggerspin.png",
+      "iconName": "katarina_daggerspin.png"
+    },
+    {
+      "spellName": "KatarinaR",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_r.png",
+      "iconName": "katarina_r.png"
+    },
+    {
+      "spellName": "KatarinaRMis",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_deathlotus.png",
+      "iconName": "katarina_deathlotus.png"
+    },
+    {
+      "spellName": "KatarinaRTrigger",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_deathlotus.png",
+      "iconName": "katarina_deathlotus.png"
+    },
+    {
+      "spellName": "KatarinaRTriggerSound",
+      "iconAsset": "cache/game/14.24/champion/Katarina/abilities/katarina_deathlotus.png",
+      "iconName": "katarina_deathlotus.png"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 69,
+  "alias": "Cassiopeia",
+  "name": "Cassiopeia",
+  "attackSpeed": 0.647,
+  "splashCenteredImg": "cache/game/14.24/champion/Cassiopeia/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Cassiopeia/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Cassiopeia/loading.png",
+  "squareImg": "cache/game/14.24/champion/Cassiopeia/square.png",
+  "spells": [
+    {
+      "spellName": "CassiopeiaQ",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_q.png",
+      "iconName": "cassiopeia_q.png"
+    },
+    {
+      "spellName": "CassiopeiaW",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_w.png",
+      "iconName": "cassiopeia_w.png"
+    },
+    {
+      "spellName": "CassiopeiaWMissile",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_w.png",
+      "iconName": "cassiopeia_w.png"
+    },
+    {
+      "spellName": "CassiopeiaWSlow",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_w.png",
+      "iconName": "cassiopeia_w.png"
+    },
+    {
+      "spellName": "CassiopeiaE",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_e.png",
+      "iconName": "cassiopeia_e.png"
+    },
+    {
+      "spellName": "CassiopeiaR",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_r.png",
+      "iconName": "cassiopeia_r.png"
+    },
+    {
+      "spellName": "CassiopeiaRStun",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_r.png",
+      "iconName": "cassiopeia_r.png"
+    },
+    {
+      "spellName": "CassiopeiaPassive",
+      "iconAsset": "cache/game/14.24/champion/Cassiopeia/abilities/cassiopeia_passive.png",
+      "iconName": "cassiopeia_passive.png",
+      "isPassive": true
+    }
+  ]
+}

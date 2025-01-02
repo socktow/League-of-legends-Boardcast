@@ -1,0 +1,48 @@
+{
+  "id": 85,
+  "alias": "Kennen",
+  "name": "Kennen",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Kennen/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Kennen/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Kennen/loading.png",
+  "squareImg": "cache/game/14.24/champion/Kennen/square.png",
+  "spells": [
+    {
+      "spellName": "KennenShurikenStorm",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_r.png",
+      "iconName": "kennen_r.png"
+    },
+    {
+      "spellName": "KennenPassive",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_passive.png",
+      "iconName": "kennen_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KennenShurikenHurlMissile1",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_q.png",
+      "iconName": "kennen_q.png"
+    },
+    {
+      "spellName": "KennenLightningRush",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_e.png",
+      "iconName": "kennen_e.png"
+    },
+    {
+      "spellName": "KennenLightningRushDamage",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_e.png",
+      "iconName": "kennen_e.png"
+    },
+    {
+      "spellName": "KennenLRCancel",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_e.png",
+      "iconName": "kennen_e.png"
+    },
+    {
+      "spellName": "KennenBringTheLight",
+      "iconAsset": "cache/game/14.24/champion/Kennen/abilities/kennen_w.png",
+      "iconName": "kennen_w.png"
+    }
+  ]
+}

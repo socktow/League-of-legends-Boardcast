@@ -1,0 +1,70 @@
+{
+  "id": 96,
+  "alias": "KogMaw",
+  "name": "Kog\u0027Maw",
+  "attackSpeed": 0.665,
+  "splashCenteredImg": "cache/game/14.24/champion/KogMaw/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/KogMaw/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/KogMaw/loading.png",
+  "squareImg": "cache/game/14.24/champion/KogMaw/square.png",
+  "spells": [
+    {
+      "spellName": "KogMawQ",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_causticspittle.png",
+      "iconName": "kogmaw_causticspittle.png"
+    },
+    {
+      "spellName": "KogMawQMis",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/fallenangel_darkbinding.png",
+      "iconName": "fallenangel_darkbinding.png"
+    },
+    {
+      "spellName": "KogMawCausticSpittle",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_causticspittle.png",
+      "iconName": "kogmaw_causticspittle.png"
+    },
+    {
+      "spellName": "KogMawBioArcaneBarrage",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_bioarcanebarrage.png",
+      "iconName": "kogmaw_bioarcanebarrage.png"
+    },
+    {
+      "spellName": "KogMawBioArcaneBarrageAttack",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_bioarcanebarrage.png",
+      "iconName": "kogmaw_bioarcanebarrage.png"
+    },
+    {
+      "spellName": "KogMawVoidOoze",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_voidooze.png",
+      "iconName": "kogmaw_voidooze.png"
+    },
+    {
+      "spellName": "KogMawVoidOozeMissile",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/bowmaster_enchantedarrow.png",
+      "iconName": "bowmaster_enchantedarrow.png"
+    },
+    {
+      "spellName": "KogMawLivingArtillery",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_livingartillery.png",
+      "iconName": "kogmaw_livingartillery.png"
+    },
+    {
+      "spellName": "KogMawIcathianSurpriseReady",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_icathiansurprise.png",
+      "iconName": "kogmaw_icathiansurprise.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KogMawIcathianDisplay",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_icathiansurprise.png",
+      "iconName": "kogmaw_icathiansurprise.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KogMawIcathianSurprise",
+      "iconAsset": "cache/game/14.24/champion/KogMaw/abilities/kogmaw_icathiansurprise.png",
+      "iconName": "kogmaw_icathiansurprise.png",
+      "isPassive": true
+    }
+  ]
+}

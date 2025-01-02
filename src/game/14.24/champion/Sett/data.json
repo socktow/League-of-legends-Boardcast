@@ -1,0 +1,38 @@
+{
+  "id": 875,
+  "alias": "Sett",
+  "name": "Sett",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Sett/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Sett/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Sett/loading.png",
+  "squareImg": "cache/game/14.24/champion/Sett/square.png",
+  "spells": [
+    {
+      "spellName": "SettQ",
+      "iconAsset": "cache/game/14.24/champion/Sett/abilities/sett_q.png",
+      "iconName": "sett_q.png"
+    },
+    {
+      "spellName": "SettW",
+      "iconAsset": "cache/game/14.24/champion/Sett/abilities/sett_w.png",
+      "iconName": "sett_w.png"
+    },
+    {
+      "spellName": "SettE",
+      "iconAsset": "cache/game/14.24/champion/Sett/abilities/sett_e.png",
+      "iconName": "sett_e.png"
+    },
+    {
+      "spellName": "SettR",
+      "iconAsset": "cache/game/14.24/champion/Sett/abilities/sett_r.png",
+      "iconName": "sett_r.png"
+    },
+    {
+      "spellName": "SettPassive",
+      "iconAsset": "cache/game/14.24/champion/Sett/abilities/sett_p.png",
+      "iconName": "sett_p.png",
+      "isPassive": true
+    }
+  ]
+}

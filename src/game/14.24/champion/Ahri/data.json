@@ -1,0 +1,37 @@
+{
+  "id": 103,
+  "alias": "Ahri",
+  "name": "Ahri",
+  "attackSpeed": 0.668,
+  "splashCenteredImg": "cache/game/14.24/champion/Ahri/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Ahri/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Ahri/loading.png",
+  "squareImg": "cache/game/14.24/champion/Ahri/square.png",
+  "spells": [
+    {
+      "spellName": "AhriR",
+      "iconAsset": "cache/game/14.24/champion/Ahri/abilities/icons_ahri_r.png",
+      "iconName": "icons_ahri_r.png"
+    },
+    {
+      "spellName": "AhriQ",
+      "iconAsset": "cache/game/14.24/champion/Ahri/abilities/icons_ahri_q.png",
+      "iconName": "icons_ahri_q.png"
+    },
+    {
+      "spellName": "AhriW",
+      "iconAsset": "cache/game/14.24/champion/Ahri/abilities/icons_ahri_w.png",
+      "iconName": "icons_ahri_w.png"
+    },
+    {
+      "spellName": "AhriE",
+      "iconAsset": "cache/game/14.24/champion/Ahri/abilities/icons_ahri_e.png",
+      "iconName": "icons_ahri_e.png"
+    },
+    {
+      "spellName": "AhriPassive",
+      "iconAsset": "cache/game/14.24/champion/Ahri/abilities/icons_ahri_passive.png",
+      "iconName": "icons_ahri_passive.png"
+    }
+  ]
+}

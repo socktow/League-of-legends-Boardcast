@@ -1,0 +1,68 @@
+{
+  "id": 350,
+  "alias": "Yuumi",
+  "name": "Yuumi",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Yuumi/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Yuumi/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Yuumi/loading.png",
+  "squareImg": "cache/game/14.24/champion/Yuumi/square.png",
+  "spells": [
+    {
+      "spellName": "YuumiQ",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiq.png",
+      "iconName": "yuumiq.png"
+    },
+    {
+      "spellName": "YuumiQCast",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiq2.png",
+      "iconName": "yuumiq2.png"
+    },
+    {
+      "spellName": "YuumiW",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiw.png",
+      "iconName": "yuumiw.png"
+    },
+    {
+      "spellName": "YuumiWEndWrapper",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiw2.png",
+      "iconName": "yuumiw2.png"
+    },
+    {
+      "spellName": "YuumiWSpellPassive",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiw.png",
+      "iconName": "yuumiw.png"
+    },
+    {
+      "spellName": "YuumiWAlly",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiw.png",
+      "iconName": "yuumiw.png"
+    },
+    {
+      "spellName": "YuumiE",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumip.png",
+      "iconName": "yuumip.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "YuumiP",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumip2.png",
+      "iconName": "yuumip2.png"
+    },
+    {
+      "spellName": "YuumiR",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumir.png",
+      "iconName": "yuumir.png"
+    },
+    {
+      "spellName": "YuumiRMissile",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumir.png",
+      "iconName": "yuumir.png"
+    },
+    {
+      "spellName": "YuumiRSpellPassive",
+      "iconAsset": "cache/game/14.24/champion/Yuumi/abilities/yuumiw.png",
+      "iconName": "yuumiw.png"
+    }
+  ]
+}

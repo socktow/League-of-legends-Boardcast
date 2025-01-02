@@ -1,0 +1,43 @@
+{
+  "id": 32,
+  "alias": "Amumu",
+  "name": "Amumu",
+  "attackSpeed": 0.736,
+  "splashCenteredImg": "cache/game/14.24/champion/Amumu/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Amumu/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Amumu/loading.png",
+  "squareImg": "cache/game/14.24/champion/Amumu/square.png",
+  "spells": [
+    {
+      "spellName": "BandageToss",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_q.png",
+      "iconName": "amumu_q.png"
+    },
+    {
+      "spellName": "SadMummyBandageToss",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_q.png",
+      "iconName": "amumu_q.png"
+    },
+    {
+      "spellName": "AuraofDespair",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_w.png",
+      "iconName": "amumu_w.png"
+    },
+    {
+      "spellName": "Tantrum",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_e.png",
+      "iconName": "amumu_e.png"
+    },
+    {
+      "spellName": "CurseoftheSadMummy",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_r.png",
+      "iconName": "amumu_r.png"
+    },
+    {
+      "spellName": "AmumuP",
+      "iconAsset": "cache/game/14.24/champion/Amumu/abilities/amumu_passive.png",
+      "iconName": "amumu_passive.png",
+      "isPassive": true
+    }
+  ]
+}

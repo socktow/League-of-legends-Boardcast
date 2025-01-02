@@ -1,0 +1,68 @@
+{
+  "id": 412,
+  "alias": "Thresh",
+  "name": "Thresh",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Thresh/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Thresh/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Thresh/loading.png",
+  "squareImg": "cache/game/14.24/champion/Thresh/square.png",
+  "spells": [
+    {
+      "spellName": "ThreshQ",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_q.png",
+      "iconName": "thresh_q.png"
+    },
+    {
+      "spellName": "ThreshQInternal",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_q.png",
+      "iconName": "thresh_q.png"
+    },
+    {
+      "spellName": "ThreshQLeap",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_q3.png",
+      "iconName": "thresh_q3.png"
+    },
+    {
+      "spellName": "ThreshW",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_w.png",
+      "iconName": "thresh_w.png"
+    },
+    {
+      "spellName": "ThreshWLanternIn",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/caitlyn_aceinthehole.png",
+      "iconName": "caitlyn_aceinthehole.png"
+    },
+    {
+      "spellName": "ThreshWShield",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_w.png",
+      "iconName": "thresh_w.png"
+    },
+    {
+      "spellName": "ThreshE",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_e.png",
+      "iconName": "thresh_e.png"
+    },
+    {
+      "spellName": "ThreshEMissile1",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/bowmaster_enchantedarrow.png",
+      "iconName": "bowmaster_enchantedarrow.png"
+    },
+    {
+      "spellName": "ThreshEPassive",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_e0.png",
+      "iconName": "thresh_e0.png"
+    },
+    {
+      "spellName": "ThreshRPenta",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_r.png",
+      "iconName": "thresh_r.png"
+    },
+    {
+      "spellName": "ThreshPassiveSouls",
+      "iconAsset": "cache/game/14.24/champion/Thresh/abilities/thresh_passive.png",
+      "iconName": "thresh_passive.png",
+      "isPassive": true
+    }
+  ]
+}

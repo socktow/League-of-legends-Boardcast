@@ -1,0 +1,54 @@
+{
+  "id": 888,
+  "alias": "Renata",
+  "name": "Renata Glasc",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Renata/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Renata/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Renata/loading.png",
+  "squareImg": "cache/game/14.24/champion/Renata/square.png",
+  "spells": [
+    {
+      "spellName": "RenataQ",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_q.png",
+      "iconName": "renata_q.png"
+    },
+    {
+      "spellName": "RenataQRecast",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_q2.png",
+      "iconName": "renata_q2.png"
+    },
+    {
+      "spellName": "RenataW",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_w.png",
+      "iconName": "renata_w.png"
+    },
+    {
+      "spellName": "RenataE",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_e.png",
+      "iconName": "renata_e.png"
+    },
+    {
+      "spellName": "RenataR",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_r.png",
+      "iconName": "renata_r.png"
+    },
+    {
+      "spellName": "RenataRDebuff",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_r.png",
+      "iconName": "renata_r.png"
+    },
+    {
+      "spellName": "RenataPassive",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_p.png",
+      "iconName": "renata_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "RenataPassiveDebuff",
+      "iconAsset": "cache/game/14.24/champion/Renata/abilities/renata_p.png",
+      "iconName": "renata_p.png",
+      "isPassive": true
+    }
+  ]
+}

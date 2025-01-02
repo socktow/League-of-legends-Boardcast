@@ -1,0 +1,74 @@
+{
+  "id": 115,
+  "alias": "Ziggs",
+  "name": "Ziggs",
+  "attackSpeed": 0.656,
+  "splashCenteredImg": "cache/game/14.24/champion/Ziggs/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Ziggs/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Ziggs/loading.png",
+  "squareImg": "cache/game/14.24/champion/Ziggs/square.png",
+  "spells": [
+    {
+      "spellName": "ZiggsQ",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggsq.png",
+      "iconName": "ziggsq.png"
+    },
+    {
+      "spellName": "ZiggsQSpell",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "ZiggsQSpell2",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "ZiggsQSpell3",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "ZiggsW",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggsw.png",
+      "iconName": "ziggsw.png"
+    },
+    {
+      "spellName": "ZiggsWToggle",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggsw.png",
+      "iconName": "ziggsw.png"
+    },
+    {
+      "spellName": "ZiggsE",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggse.png",
+      "iconName": "ziggse.png"
+    },
+    {
+      "spellName": "ZiggsE2",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "ZiggsE3",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "ZiggsR",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggsr.png",
+      "iconName": "ziggsr.png"
+    },
+    {
+      "spellName": "ZiggsPassiveBuff",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggspassiveready.png",
+      "iconName": "ziggspassiveready.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "ZiggsPassiveAttack",
+      "iconAsset": "cache/game/14.24/champion/Ziggs/abilities/ziggspassiveready.png",
+      "iconName": "ziggspassiveready.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 420,
+  "alias": "Illaoi",
+  "name": "Illaoi",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Illaoi/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Illaoi/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Illaoi/loading.png",
+  "squareImg": "cache/game/14.24/champion/Illaoi/square.png",
+  "spells": [
+    {
+      "spellName": "IllaoiQ",
+      "iconAsset": "cache/game/14.24/champion/Illaoi/abilities/illaoi_q.png",
+      "iconName": "illaoi_q.png"
+    },
+    {
+      "spellName": "IllaoiW",
+      "iconAsset": "cache/game/14.24/champion/Illaoi/abilities/illaoi_w.png",
+      "iconName": "illaoi_w.png"
+    },
+    {
+      "spellName": "IllaoiE",
+      "iconAsset": "cache/game/14.24/champion/Illaoi/abilities/illaoi_e.png",
+      "iconName": "illaoi_e.png"
+    },
+    {
+      "spellName": "IllaoiR",
+      "iconAsset": "cache/game/14.24/champion/Illaoi/abilities/illaoi_r.png",
+      "iconName": "illaoi_r.png"
+    },
+    {
+      "spellName": "IllaoiPassive",
+      "iconAsset": "cache/game/14.24/champion/Illaoi/abilities/illaoi_p.png",
+      "iconName": "illaoi_p.png",
+      "isPassive": true
+    }
+  ]
+}

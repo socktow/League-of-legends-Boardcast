@@ -1,0 +1,38 @@
+{
+  "id": 27,
+  "alias": "Singed",
+  "name": "Singed",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Singed/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Singed/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Singed/loading.png",
+  "squareImg": "cache/game/14.24/champion/Singed/square.png",
+  "spells": [
+    {
+      "spellName": "PoisonTrail",
+      "iconAsset": "cache/game/14.24/champion/Singed/abilities/singed_q.png",
+      "iconName": "singed_q.png"
+    },
+    {
+      "spellName": "MegaAdhesive",
+      "iconAsset": "cache/game/14.24/champion/Singed/abilities/singed_w.png",
+      "iconName": "singed_w.png"
+    },
+    {
+      "spellName": "Fling",
+      "iconAsset": "cache/game/14.24/champion/Singed/abilities/singed_e.png",
+      "iconName": "singed_e.png"
+    },
+    {
+      "spellName": "InsanityPotion",
+      "iconAsset": "cache/game/14.24/champion/Singed/abilities/singed_r.png",
+      "iconName": "singed_r.png"
+    },
+    {
+      "spellName": "SingedP",
+      "iconAsset": "cache/game/14.24/champion/Singed/abilities/singed_passive.png",
+      "iconName": "singed_passive.png",
+      "isPassive": true
+    }
+  ]
+}

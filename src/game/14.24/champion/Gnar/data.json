@@ -1,0 +1,58 @@
+{
+  "id": 150,
+  "alias": "Gnar",
+  "name": "Gnar",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Gnar/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Gnar/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Gnar/loading.png",
+  "squareImg": "cache/game/14.24/champion/Gnar/square.png",
+  "spells": [
+    {
+      "spellName": "GnarQ",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnar_q.png",
+      "iconName": "gnar_q.png"
+    },
+    {
+      "spellName": "GnarW",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnar_w.png",
+      "iconName": "gnar_w.png"
+    },
+    {
+      "spellName": "GnarBigQ",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnarbig_q.png",
+      "iconName": "gnarbig_q.png"
+    },
+    {
+      "spellName": "GnarBigQMissile",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnarbig_q.png",
+      "iconName": "gnarbig_q.png"
+    },
+    {
+      "spellName": "GnarBigW",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnarbig_w.png",
+      "iconName": "gnarbig_w.png"
+    },
+    {
+      "spellName": "GnarBigE",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnarbig_e.png",
+      "iconName": "gnarbig_e.png"
+    },
+    {
+      "spellName": "GnarE",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnar_e.png",
+      "iconName": "gnar_e.png"
+    },
+    {
+      "spellName": "GnarR",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnarbig_r.png",
+      "iconName": "gnarbig_r.png"
+    },
+    {
+      "spellName": "GnarPassive",
+      "iconAsset": "cache/game/14.24/champion/Gnar/abilities/gnar_passive.png",
+      "iconName": "gnar_passive.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 498,
+  "alias": "Xayah",
+  "name": "Xayah",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Xayah/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Xayah/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Xayah/loading.png",
+  "squareImg": "cache/game/14.24/champion/Xayah/square.png",
+  "spells": [
+    {
+      "spellName": "XayahR",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahr.png",
+      "iconName": "xayahr.png"
+    },
+    {
+      "spellName": "XayahRMissile",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahr.png",
+      "iconName": "xayahr.png"
+    },
+    {
+      "spellName": "XayahQ",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahq.png",
+      "iconName": "xayahq.png"
+    },
+    {
+      "spellName": "XayahQMissile1",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahq.png",
+      "iconName": "xayahq.png"
+    },
+    {
+      "spellName": "XayahQMissile2",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahq.png",
+      "iconName": "xayahq.png"
+    },
+    {
+      "spellName": "XayahW",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahw.png",
+      "iconName": "xayahw.png"
+    },
+    {
+      "spellName": "XayahWHaste",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahw.png",
+      "iconName": "xayahw.png"
+    },
+    {
+      "spellName": "XayahWMissile1",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahw.png",
+      "iconName": "xayahw.png"
+    },
+    {
+      "spellName": "XayahWMissile2",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahw.png",
+      "iconName": "xayahw.png"
+    },
+    {
+      "spellName": "XayahWRakanMissile",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahw.png",
+      "iconName": "xayahw.png"
+    },
+    {
+      "spellName": "XayahE",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahe.png",
+      "iconName": "xayahe.png"
+    },
+    {
+      "spellName": "XayahEMissile",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahe.png",
+      "iconName": "xayahe.png"
+    },
+    {
+      "spellName": "XayahEMissileSFX",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahe.png",
+      "iconName": "xayahe.png"
+    },
+    {
+      "spellName": "XayahPassive",
+      "iconAsset": "cache/game/14.24/champion/Xayah/abilities/xayahpassive.png",
+      "iconName": "xayahpassive.png",
+      "isPassive": true
+    }
+  ]
+}

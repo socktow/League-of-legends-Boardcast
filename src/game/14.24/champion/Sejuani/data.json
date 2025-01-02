@@ -1,0 +1,48 @@
+{
+  "id": 113,
+  "alias": "Sejuani",
+  "name": "Sejuani",
+  "attackSpeed": 0.688,
+  "splashCenteredImg": "cache/game/14.24/champion/Sejuani/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Sejuani/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Sejuani/loading.png",
+  "squareImg": "cache/game/14.24/champion/Sejuani/square.png",
+  "spells": [
+    {
+      "spellName": "SejuaniQ",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_q.png",
+      "iconName": "sejuani_q.png"
+    },
+    {
+      "spellName": "SejuaniW",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_w.png",
+      "iconName": "sejuani_w.png"
+    },
+    {
+      "spellName": "SejuaniE",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_e.png",
+      "iconName": "sejuani_e.png"
+    },
+    {
+      "spellName": "SejuaniEPassiveMissile",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_w.png",
+      "iconName": "sejuani_w.png"
+    },
+    {
+      "spellName": "SejuaniE2",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_w.png",
+      "iconName": "sejuani_w.png"
+    },
+    {
+      "spellName": "SejuaniR",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_r.png",
+      "iconName": "sejuani_r.png"
+    },
+    {
+      "spellName": "SejuaniPassive",
+      "iconAsset": "cache/game/14.24/champion/Sejuani/abilities/sejuani_passive.png",
+      "iconName": "sejuani_passive.png",
+      "isPassive": true
+    }
+  ]
+}

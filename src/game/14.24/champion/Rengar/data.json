@@ -1,0 +1,73 @@
+{
+  "id": 107,
+  "alias": "Rengar",
+  "name": "Rengar",
+  "attackSpeed": 0.667,
+  "splashCenteredImg": "cache/game/14.24/champion/Rengar/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Rengar/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Rengar/loading.png",
+  "squareImg": "cache/game/14.24/champion/Rengar/square.png",
+  "spells": [
+    {
+      "spellName": "RengarR",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_r.png",
+      "iconName": "rengar_r.png"
+    },
+    {
+      "spellName": "RengarQ",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengarq.png",
+      "iconName": "rengarq.png"
+    },
+    {
+      "spellName": "RengarQAttack",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengarq.png",
+      "iconName": "rengarq.png"
+    },
+    {
+      "spellName": "RengarQEmp",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengarqemp.png",
+      "iconName": "rengarqemp.png"
+    },
+    {
+      "spellName": "RengarQEmpAttack",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengarqemp.png",
+      "iconName": "rengarqemp.png"
+    },
+    {
+      "spellName": "RengarW",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_w.png",
+      "iconName": "rengar_w.png"
+    },
+    {
+      "spellName": "RengarWEmp",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_w_emp.png",
+      "iconName": "rengar_w_emp.png"
+    },
+    {
+      "spellName": "RengarE",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_e.png",
+      "iconName": "rengar_e.png"
+    },
+    {
+      "spellName": "RengarEMis",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_e.png",
+      "iconName": "rengar_e.png"
+    },
+    {
+      "spellName": "RengarPassive",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_p.png",
+      "iconName": "rengar_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "RengarEEmp",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_e_emp.png",
+      "iconName": "rengar_e_emp.png"
+    },
+    {
+      "spellName": "RengarEEmpMis",
+      "iconAsset": "cache/game/14.24/champion/Rengar/abilities/rengar_e_emp.png",
+      "iconName": "rengar_e_emp.png"
+    }
+  ]
+}

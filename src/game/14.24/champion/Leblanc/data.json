@@ -1,0 +1,98 @@
+{
+  "id": 7,
+  "alias": "Leblanc",
+  "name": "LeBlanc",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Leblanc/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Leblanc/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Leblanc/loading.png",
+  "squareImg": "cache/game/14.24/champion/Leblanc/square.png",
+  "spells": [
+    {
+      "spellName": "LeblancRW",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancrw.png",
+      "iconName": "leblancrw.png"
+    },
+    {
+      "spellName": "LeblancRWReturn",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancrwreturn.png",
+      "iconName": "leblancrwreturn.png"
+    },
+    {
+      "spellName": "LeblancQ",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancq.png",
+      "iconName": "leblancq.png"
+    },
+    {
+      "spellName": "LeblancQMark",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancq.png",
+      "iconName": "leblancq.png"
+    },
+    {
+      "spellName": "LeblancW",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancw.png",
+      "iconName": "leblancw.png"
+    },
+    {
+      "spellName": "LeblancWMove",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancw.png",
+      "iconName": "leblancw.png"
+    },
+    {
+      "spellName": "LeblancWReturn",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancwreturn.png",
+      "iconName": "leblancwreturn.png"
+    },
+    {
+      "spellName": "LeblancE",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblance.png",
+      "iconName": "leblance.png"
+    },
+    {
+      "spellName": "LeblancEMissile",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblance.png",
+      "iconName": "leblance.png"
+    },
+    {
+      "spellName": "LeblancR",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancr.png",
+      "iconName": "leblancr.png"
+    },
+    {
+      "spellName": "LeblancP",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancp.png",
+      "iconName": "leblancp.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "LeblancRQ",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancrq.png",
+      "iconName": "leblancrq.png"
+    },
+    {
+      "spellName": "LeblancRQMark",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancrq.png",
+      "iconName": "leblancrq.png"
+    },
+    {
+      "spellName": "LeblancRQMissile",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancrq.png",
+      "iconName": "leblancrq.png"
+    },
+    {
+      "spellName": "LeblancRE",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancre.png",
+      "iconName": "leblancre.png"
+    },
+    {
+      "spellName": "LeblancREMissile",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblancre.png",
+      "iconName": "leblancre.png"
+    },
+    {
+      "spellName": "LeblancRREMissile",
+      "iconAsset": "cache/game/14.24/champion/Leblanc/abilities/leblance.png",
+      "iconName": "leblance.png"
+    }
+  ]
+}

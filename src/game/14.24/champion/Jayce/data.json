@@ -1,0 +1,57 @@
+{
+  "id": 126,
+  "alias": "Jayce",
+  "name": "Jayce",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Jayce/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Jayce/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Jayce/loading.png",
+  "squareImg": "cache/game/14.24/champion/Jayce/square.png",
+  "spells": [
+    {
+      "spellName": "JayceStanceHtG",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycer_ranged.png",
+      "iconName": "jaycer_ranged.png"
+    },
+    {
+      "spellName": "JayceStanceGtH",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycer_melee.png",
+      "iconName": "jaycer_melee.png"
+    },
+    {
+      "spellName": "JayceToTheSkies",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jayceq_melee.png",
+      "iconName": "jayceq_melee.png"
+    },
+    {
+      "spellName": "JayceStaticField",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycew_melee.png",
+      "iconName": "jaycew_melee.png"
+    },
+    {
+      "spellName": "JayceThunderingBlow",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycee_melee.png",
+      "iconName": "jaycee_melee.png"
+    },
+    {
+      "spellName": "JaycePassive",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycep_melee.png",
+      "iconName": "jaycep_melee.png"
+    },
+    {
+      "spellName": "JayceAccelerationGate",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycee_ranged.png",
+      "iconName": "jaycee_ranged.png"
+    },
+    {
+      "spellName": "JayceHyperCharge",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jaycew_ranged.png",
+      "iconName": "jaycew_ranged.png"
+    },
+    {
+      "spellName": "JayceShockBlast",
+      "iconAsset": "cache/game/14.24/champion/Jayce/abilities/jayceq_ranged.png",
+      "iconName": "jayceq_ranged.png"
+    }
+  ]
+}

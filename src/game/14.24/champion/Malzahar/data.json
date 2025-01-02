@@ -1,0 +1,48 @@
+{
+  "id": 90,
+  "alias": "Malzahar",
+  "name": "Malzahar",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Malzahar/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Malzahar/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Malzahar/loading.png",
+  "squareImg": "cache/game/14.24/champion/Malzahar/square.png",
+  "spells": [
+    {
+      "spellName": "MalzaharQ",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_q.png",
+      "iconName": "malzahar_q.png"
+    },
+    {
+      "spellName": "MalzaharQMissile",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_q.png",
+      "iconName": "malzahar_q.png"
+    },
+    {
+      "spellName": "MalzaharW",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_w.png",
+      "iconName": "malzahar_w.png"
+    },
+    {
+      "spellName": "MalzaharWCancel",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_w.png",
+      "iconName": "malzahar_w.png"
+    },
+    {
+      "spellName": "MalzaharE",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_e.png",
+      "iconName": "malzahar_e.png"
+    },
+    {
+      "spellName": "MalzaharR",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_r.png",
+      "iconName": "malzahar_r.png"
+    },
+    {
+      "spellName": "MalzaharPassive",
+      "iconAsset": "cache/game/14.24/champion/Malzahar/abilities/malzahar_passive.png",
+      "iconName": "malzahar_passive.png",
+      "isPassive": true
+    }
+  ]
+}

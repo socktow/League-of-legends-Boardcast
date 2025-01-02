@@ -1,0 +1,53 @@
+{
+  "id": 83,
+  "alias": "Yorick",
+  "name": "Yorick",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Yorick/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Yorick/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Yorick/loading.png",
+  "squareImg": "cache/game/14.24/champion/Yorick/square.png",
+  "spells": [
+    {
+      "spellName": "YorickR",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_r.png",
+      "iconName": "yorick_r.png"
+    },
+    {
+      "spellName": "YorickR2",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_r2.png",
+      "iconName": "yorick_r2.png"
+    },
+    {
+      "spellName": "YorickQ",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_q.png",
+      "iconName": "yorick_q.png"
+    },
+    {
+      "spellName": "YorickQ2",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_q2.png",
+      "iconName": "yorick_q2.png"
+    },
+    {
+      "spellName": "YorickW",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_w.png",
+      "iconName": "yorick_w.png"
+    },
+    {
+      "spellName": "YorickE",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_e.png",
+      "iconName": "yorick_e.png"
+    },
+    {
+      "spellName": "YorickEMissile",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_e.png",
+      "iconName": "yorick_e.png"
+    },
+    {
+      "spellName": "YorickPassive",
+      "iconAsset": "cache/game/14.24/champion/Yorick/abilities/yorick_p.png",
+      "iconName": "yorick_p.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 121,
+  "alias": "Khazix",
+  "name": "Kha\u0027Zix",
+  "attackSpeed": 0.668,
+  "splashCenteredImg": "cache/game/14.24/champion/Khazix/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Khazix/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Khazix/loading.png",
+  "squareImg": "cache/game/14.24/champion/Khazix/square.png",
+  "spells": [
+    {
+      "spellName": "KhazixR",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_r.png",
+      "iconName": "khazix_r.png"
+    },
+    {
+      "spellName": "KhazixQ",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_q.png",
+      "iconName": "khazix_q.png"
+    },
+    {
+      "spellName": "KhazixQDR",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_q.png",
+      "iconName": "khazix_q.png"
+    },
+    {
+      "spellName": "KhazixQLong",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_q_red.png",
+      "iconName": "khazix_q_red.png"
+    },
+    {
+      "spellName": "KhazixW",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_w.png",
+      "iconName": "khazix_w.png"
+    },
+    {
+      "spellName": "KhazixWEvoSlow",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_w_red.png",
+      "iconName": "khazix_w_red.png"
+    },
+    {
+      "spellName": "KhazixWLong",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_w_red.png",
+      "iconName": "khazix_w_red.png"
+    },
+    {
+      "spellName": "KhazixE",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_e.png",
+      "iconName": "khazix_e.png"
+    },
+    {
+      "spellName": "KhazixELong",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_e_red.png",
+      "iconName": "khazix_e_red.png"
+    },
+    {
+      "spellName": "KhazixPassive",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_p.png",
+      "iconName": "khazix_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KhazixPDamage",
+      "iconAsset": "cache/game/14.24/champion/Khazix/abilities/khazix_p.png",
+      "iconName": "khazix_p.png",
+      "isPassive": true
+    }
+  ]
+}

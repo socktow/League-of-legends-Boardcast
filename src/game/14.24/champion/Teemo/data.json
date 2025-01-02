@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "alias": "Teemo",
+  "name": "Teemo",
+  "attackSpeed": 0.69,
+  "splashCenteredImg": "cache/game/14.24/champion/Teemo/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Teemo/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Teemo/loading.png",
+  "squareImg": "cache/game/14.24/champion/Teemo/square.png",
+  "spells": [
+    {
+      "spellName": "TeemoQ",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemoq.asu_teemo.png",
+      "iconName": "teemoq.asu_teemo.png"
+    },
+    {
+      "spellName": "TeemoW",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemow.asu_teemo.png",
+      "iconName": "teemow.asu_teemo.png"
+    },
+    {
+      "spellName": "TeemoWPassiveCooldown",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemow_grey.asu_teemo.png",
+      "iconName": "teemow_grey.asu_teemo.png"
+    },
+    {
+      "spellName": "TeemoE",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemoe.asu_teemo.png",
+      "iconName": "teemoe.asu_teemo.png"
+    },
+    {
+      "spellName": "TeemoEAttack",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/1041_long_staff.png",
+      "iconName": "1041_long_staff.png"
+    },
+    {
+      "spellName": "TeemoR",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemor.asu_teemo.png",
+      "iconName": "teemor.asu_teemo.png"
+    },
+    {
+      "spellName": "TeemoRTrap",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemo_r.png",
+      "iconName": "teemo_r.png"
+    },
+    {
+      "spellName": "TeemoPassive",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemopassive.asu_teemo.png",
+      "iconName": "teemopassive.asu_teemo.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "TeemoPAttackSpeedBuff",
+      "iconAsset": "cache/game/14.24/champion/Teemo/abilities/teemopassive_buff.asu_teemo.png",
+      "iconName": "teemopassive_buff.asu_teemo.png"
+    }
+  ]
+}

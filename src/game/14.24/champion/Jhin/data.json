@@ -1,0 +1,48 @@
+{
+  "id": 202,
+  "alias": "Jhin",
+  "name": "Jhin",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Jhin/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Jhin/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Jhin/loading.png",
+  "squareImg": "cache/game/14.24/champion/Jhin/square.png",
+  "spells": [
+    {
+      "spellName": "JhinRShot",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_r_shot.png",
+      "iconName": "jhin_r_shot.png"
+    },
+    {
+      "spellName": "JhinR",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_r.png",
+      "iconName": "jhin_r.png"
+    },
+    {
+      "spellName": "JhinQ",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_q.png",
+      "iconName": "jhin_q.png"
+    },
+    {
+      "spellName": "JhinW",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_w.png",
+      "iconName": "jhin_w.png"
+    },
+    {
+      "spellName": "JhinE",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_e.png",
+      "iconName": "jhin_e.png"
+    },
+    {
+      "spellName": "JhinPassive",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/jhin_p.png",
+      "iconName": "jhin_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "JhinPassiveReload",
+      "iconAsset": "cache/game/14.24/champion/Jhin/abilities/summoner_haste.png",
+      "iconName": "summoner_haste.png"
+    }
+  ]
+}

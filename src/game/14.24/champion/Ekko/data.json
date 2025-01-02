@@ -1,0 +1,43 @@
+{
+  "id": 245,
+  "alias": "Ekko",
+  "name": "Ekko",
+  "attackSpeed": 0.688,
+  "splashCenteredImg": "cache/game/14.24/champion/Ekko/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Ekko/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Ekko/loading.png",
+  "squareImg": "cache/game/14.24/champion/Ekko/square.png",
+  "spells": [
+    {
+      "spellName": "EkkoQ",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_q.png",
+      "iconName": "ekko_q.png"
+    },
+    {
+      "spellName": "EkkoW",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_w.png",
+      "iconName": "ekko_w.png"
+    },
+    {
+      "spellName": "EkkoWPassive",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_w.png",
+      "iconName": "ekko_w.png"
+    },
+    {
+      "spellName": "EkkoE",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_e.png",
+      "iconName": "ekko_e.png"
+    },
+    {
+      "spellName": "EkkoR",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_r.png",
+      "iconName": "ekko_r.png"
+    },
+    {
+      "spellName": "EkkoPassive",
+      "iconAsset": "cache/game/14.24/champion/Ekko/abilities/ekko_p.png",
+      "iconName": "ekko_p.png",
+      "isPassive": true
+    }
+  ]
+}

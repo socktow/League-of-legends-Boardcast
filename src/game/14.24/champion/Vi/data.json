@@ -1,0 +1,38 @@
+{
+  "id": 254,
+  "alias": "Vi",
+  "name": "Vi",
+  "attackSpeed": 0.644,
+  "splashCenteredImg": "cache/game/14.24/champion/Vi/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Vi/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Vi/loading.png",
+  "squareImg": "cache/game/14.24/champion/Vi/square.png",
+  "spells": [
+    {
+      "spellName": "ViQ",
+      "iconAsset": "cache/game/14.24/champion/Vi/abilities/viq.png",
+      "iconName": "viq.png"
+    },
+    {
+      "spellName": "ViW",
+      "iconAsset": "cache/game/14.24/champion/Vi/abilities/viw.png",
+      "iconName": "viw.png"
+    },
+    {
+      "spellName": "ViE",
+      "iconAsset": "cache/game/14.24/champion/Vi/abilities/vie.png",
+      "iconName": "vie.png"
+    },
+    {
+      "spellName": "ViR",
+      "iconAsset": "cache/game/14.24/champion/Vi/abilities/vir.png",
+      "iconName": "vir.png"
+    },
+    {
+      "spellName": "ViPassive",
+      "iconAsset": "cache/game/14.24/champion/Vi/abilities/vipassive.png",
+      "iconName": "vipassive.png",
+      "isPassive": true
+    }
+  ]
+}

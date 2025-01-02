@@ -1,0 +1,48 @@
+{
+  "id": 35,
+  "alias": "Shaco",
+  "name": "Shaco",
+  "attackSpeed": 0.694,
+  "splashCenteredImg": "cache/game/14.24/champion/Shaco/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Shaco/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Shaco/loading.png",
+  "squareImg": "cache/game/14.24/champion/Shaco/square.png",
+  "spells": [
+    {
+      "spellName": "HallucinateFull",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_hallucinogenbomb.png",
+      "iconName": "jester_hallucinogenbomb.png"
+    },
+    {
+      "spellName": "Hallucinate",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_hallucinogenbomb.png",
+      "iconName": "jester_hallucinogenbomb.png"
+    },
+    {
+      "spellName": "HallucinateGuide",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_hallucinogenbomb_r.png",
+      "iconName": "jester_hallucinogenbomb_r.png"
+    },
+    {
+      "spellName": "Deceive",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_maniacalcloak2.png",
+      "iconName": "jester_maniacalcloak2.png"
+    },
+    {
+      "spellName": "JackInTheBox",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_deathward.png",
+      "iconName": "jester_deathward.png"
+    },
+    {
+      "spellName": "TwoShivPoison",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_incrediblyprecise.png",
+      "iconName": "jester_incrediblyprecise.png"
+    },
+    {
+      "spellName": "ShacoPassive",
+      "iconAsset": "cache/game/14.24/champion/Shaco/abilities/jester_carefulstrikes.png",
+      "iconName": "jester_carefulstrikes.png",
+      "isPassive": true
+    }
+  ]
+}

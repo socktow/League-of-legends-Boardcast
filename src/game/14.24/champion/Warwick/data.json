@@ -1,0 +1,58 @@
+{
+  "id": 19,
+  "alias": "Warwick",
+  "name": "Warwick",
+  "attackSpeed": 0.638,
+  "splashCenteredImg": "cache/game/14.24/champion/Warwick/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Warwick/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Warwick/loading.png",
+  "squareImg": "cache/game/14.24/champion/Warwick/square.png",
+  "spells": [
+    {
+      "spellName": "WarwickR",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickr.png",
+      "iconName": "warwickr.png"
+    },
+    {
+      "spellName": "WarwickQ",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickq.png",
+      "iconName": "warwickq.png"
+    },
+    {
+      "spellName": "WarwickW",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickw.png",
+      "iconName": "warwickw.png"
+    },
+    {
+      "spellName": "WarwickWPassiveAS",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickw.png",
+      "iconName": "warwickw.png"
+    },
+    {
+      "spellName": "WarwickWActive",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickw.png",
+      "iconName": "warwickw.png"
+    },
+    {
+      "spellName": "WarwickWActiveHit",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickw.png",
+      "iconName": "warwickw.png"
+    },
+    {
+      "spellName": "WarwickWActiveMiss",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickw.png",
+      "iconName": "warwickw.png"
+    },
+    {
+      "spellName": "WarwickE",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwicke.png",
+      "iconName": "warwicke.png"
+    },
+    {
+      "spellName": "WarwickP",
+      "iconAsset": "cache/game/14.24/champion/Warwick/abilities/warwickp.png",
+      "iconName": "warwickp.png",
+      "isPassive": true
+    }
+  ]
+}

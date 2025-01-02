@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "alias": "Soraka",
+  "name": "Soraka",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Soraka/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Soraka/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Soraka/loading.png",
+  "squareImg": "cache/game/14.24/champion/Soraka/square.png",
+  "spells": [
+    {
+      "spellName": "SorakaQ",
+      "iconAsset": "cache/game/14.24/champion/Soraka/abilities/soraka_q.png",
+      "iconName": "soraka_q.png"
+    },
+    {
+      "spellName": "SorakaW",
+      "iconAsset": "cache/game/14.24/champion/Soraka/abilities/soraka_w.png",
+      "iconName": "soraka_w.png"
+    },
+    {
+      "spellName": "SorakaE",
+      "iconAsset": "cache/game/14.24/champion/Soraka/abilities/soraka_e.png",
+      "iconName": "soraka_e.png"
+    },
+    {
+      "spellName": "SorakaR",
+      "iconAsset": "cache/game/14.24/champion/Soraka/abilities/soraka_r.png",
+      "iconName": "soraka_r.png"
+    },
+    {
+      "spellName": "Consecration_Self",
+      "iconAsset": "cache/game/14.24/champion/Soraka/abilities/soraka_passive.png",
+      "iconName": "soraka_passive.png",
+      "isPassive": true
+    }
+  ]
+}

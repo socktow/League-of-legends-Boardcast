@@ -1,0 +1,43 @@
+{
+  "id": 62,
+  "alias": "MonkeyKing",
+  "name": "Wukong",
+  "attackSpeed": 0.69,
+  "splashCenteredImg": "cache/game/14.24/champion/MonkeyKing/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/MonkeyKing/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/MonkeyKing/loading.png",
+  "squareImg": "cache/game/14.24/champion/MonkeyKing/square.png",
+  "spells": [
+    {
+      "spellName": "MonkeyKingSpinToWin",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingcyclone.png",
+      "iconName": "monkeykingcyclone.png"
+    },
+    {
+      "spellName": "MonkeyKingSpinToWinLeave",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingcyclone.png",
+      "iconName": "monkeykingcyclone.png"
+    },
+    {
+      "spellName": "MonkeyKingDoubleAttack",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingcrushingblow.png",
+      "iconName": "monkeykingcrushingblow.png"
+    },
+    {
+      "spellName": "MonkeyKingDecoy",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingdecoy.png",
+      "iconName": "monkeykingdecoy.png"
+    },
+    {
+      "spellName": "MonkeyKingNimbus",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingnimbusstrike.png",
+      "iconName": "monkeykingnimbusstrike.png"
+    },
+    {
+      "spellName": "MonkeyKingPassive",
+      "iconAsset": "cache/game/14.24/champion/MonkeyKing/abilities/monkeykingstoneskin.png",
+      "iconName": "monkeykingstoneskin.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 98,
+  "alias": "Shen",
+  "name": "Shen",
+  "attackSpeed": 0.751,
+  "splashCenteredImg": "cache/game/14.24/champion/Shen/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Shen/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Shen/loading.png",
+  "squareImg": "cache/game/14.24/champion/Shen/square.png",
+  "spells": [
+    {
+      "spellName": "ShenQ",
+      "iconAsset": "cache/game/14.24/champion/Shen/abilities/shen_q.png",
+      "iconName": "shen_q.png"
+    },
+    {
+      "spellName": "ShenW",
+      "iconAsset": "cache/game/14.24/champion/Shen/abilities/shen_w.png",
+      "iconName": "shen_w.png"
+    },
+    {
+      "spellName": "ShenE",
+      "iconAsset": "cache/game/14.24/champion/Shen/abilities/shen_e.png",
+      "iconName": "shen_e.png"
+    },
+    {
+      "spellName": "ShenR",
+      "iconAsset": "cache/game/14.24/champion/Shen/abilities/shen_r.png",
+      "iconName": "shen_r.png"
+    },
+    {
+      "spellName": "ShenPassive",
+      "iconAsset": "cache/game/14.24/champion/Shen/abilities/shen_passive.png",
+      "iconName": "shen_passive.png",
+      "isPassive": true
+    }
+  ]
+}

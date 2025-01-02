@@ -1,0 +1,79 @@
+{
+  "id": 13,
+  "alias": "Ryze",
+  "name": "Ryze",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Ryze/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Ryze/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Ryze/loading.png",
+  "squareImg": "cache/game/14.24/champion/Ryze/square.png",
+  "spells": [
+    {
+      "spellName": "RyzeQWrapper",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q.png",
+      "iconName": "ryze_q.png"
+    },
+    {
+      "spellName": "RyzeQ",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q.png",
+      "iconName": "ryze_q.png"
+    },
+    {
+      "spellName": "RyzeQCharged",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q.png",
+      "iconName": "ryze_q.png"
+    },
+    {
+      "spellName": "RyzeQMissile",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q.png",
+      "iconName": "ryze_q.png"
+    },
+    {
+      "spellName": "RyzeQMS",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q_shield.png",
+      "iconName": "ryze_q_shield.png"
+    },
+    {
+      "spellName": "RyzeQShield",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q_shield.png",
+      "iconName": "ryze_q_shield.png"
+    },
+    {
+      "spellName": "RyzeQUncharged",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_q_grey.png",
+      "iconName": "ryze_q_grey.png"
+    },
+    {
+      "spellName": "RyzeW",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_w.png",
+      "iconName": "ryze_w.png"
+    },
+    {
+      "spellName": "RyzeE",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_e.png",
+      "iconName": "ryze_e.png"
+    },
+    {
+      "spellName": "RyzeR",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_r.png",
+      "iconName": "ryze_r.png"
+    },
+    {
+      "spellName": "RyzeR2",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_p.png",
+      "iconName": "ryze_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "RyzeRChannel",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_r.png",
+      "iconName": "ryze_r.png"
+    },
+    {
+      "spellName": "RyzePassive",
+      "iconAsset": "cache/game/14.24/champion/Ryze/abilities/ryze_p.png",
+      "iconName": "ryze_p.png",
+      "isPassive": true
+    }
+  ]
+}

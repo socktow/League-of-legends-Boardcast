@@ -1,0 +1,44 @@
+{
+  "id": 200,
+  "alias": "Belveth",
+  "name": "Bel\u0027Veth",
+  "attackSpeed": 0.85,
+  "splashCenteredImg": "cache/game/14.24/champion/Belveth/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Belveth/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Belveth/loading.png",
+  "squareImg": "cache/game/14.24/champion/Belveth/square.png",
+  "spells": [
+    {
+      "spellName": "BelvethW",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/belvethw.png",
+      "iconName": "belvethw.png"
+    },
+    {
+      "spellName": "BelvethE",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/belvethe.png",
+      "iconName": "belvethe.png"
+    },
+    {
+      "spellName": "BelvethPassive",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/belveth_passive.png",
+      "iconName": "belveth_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BelvethPassiveStacks",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/belveth_passive.png",
+      "iconName": "belveth_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BelvethQ",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/bv_q_1.png",
+      "iconName": "bv_q_1.png"
+    },
+    {
+      "spellName": "BelvethR",
+      "iconAsset": "cache/game/14.24/champion/Belveth/abilities/belvethr.png",
+      "iconName": "belvethr.png"
+    }
+  ]
+}

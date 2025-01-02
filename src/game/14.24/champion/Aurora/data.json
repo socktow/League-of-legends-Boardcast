@@ -1,0 +1,48 @@
+{
+  "id": 893,
+  "alias": "Aurora",
+  "name": "Aurora",
+  "attackSpeed": 0.668,
+  "splashCenteredImg": "cache/game/14.24/champion/Aurora/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Aurora/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Aurora/loading.png",
+  "squareImg": "cache/game/14.24/champion/Aurora/square.png",
+  "spells": [
+    {
+      "spellName": "AuroraQ",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/auroraq.aurora.png",
+      "iconName": "auroraq.aurora.png"
+    },
+    {
+      "spellName": "AuroraQRecast",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/auroraq2.aurora.png",
+      "iconName": "auroraq2.aurora.png"
+    },
+    {
+      "spellName": "AuroraW",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/auroraw.aurora.png",
+      "iconName": "auroraw.aurora.png"
+    },
+    {
+      "spellName": "AuroraE",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/aurorae.aurora.png",
+      "iconName": "aurorae.aurora.png"
+    },
+    {
+      "spellName": "AuroraR",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/aurorar.aurora.png",
+      "iconName": "aurorar.aurora.png"
+    },
+    {
+      "spellName": "AuroraRRecast",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/aurorar.aurora.png",
+      "iconName": "aurorar.aurora.png"
+    },
+    {
+      "spellName": "AuroraPassive",
+      "iconAsset": "cache/game/14.24/champion/Aurora/abilities/aurorapassive.aurora.png",
+      "iconName": "aurorapassive.aurora.png",
+      "isPassive": true
+    }
+  ]
+}

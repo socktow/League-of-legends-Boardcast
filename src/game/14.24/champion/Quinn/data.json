@@ -1,0 +1,64 @@
+{
+  "id": 133,
+  "alias": "Quinn",
+  "name": "Quinn",
+  "attackSpeed": 0.668,
+  "splashCenteredImg": "cache/game/14.24/champion/Quinn/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Quinn/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Quinn/loading.png",
+  "squareImg": "cache/game/14.24/champion/Quinn/square.png",
+  "spells": [
+    {
+      "spellName": "QuinnR",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_r1.png",
+      "iconName": "quinn_r1.png"
+    },
+    {
+      "spellName": "QuinnRFinale",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_r2.png",
+      "iconName": "quinn_r2.png"
+    },
+    {
+      "spellName": "QuinnRReturnToQuinn",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/spell_quinn_square.png",
+      "iconName": "spell_quinn_square.png"
+    },
+    {
+      "spellName": "QuinnRChannel",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_r1.png",
+      "iconName": "quinn_r1.png"
+    },
+    {
+      "spellName": "QuinnQ",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_q.png",
+      "iconName": "quinn_q.png"
+    },
+    {
+      "spellName": "QuinnW",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_w.png",
+      "iconName": "quinn_w.png"
+    },
+    {
+      "spellName": "QuinnWEnhanced",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_passive.png",
+      "iconName": "quinn_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "QuinnE",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_e.png",
+      "iconName": "quinn_e.png"
+    },
+    {
+      "spellName": "QuinnESecond",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_e.png",
+      "iconName": "quinn_e.png"
+    },
+    {
+      "spellName": "QuinnPassive",
+      "iconAsset": "cache/game/14.24/champion/Quinn/abilities/quinn_passive.png",
+      "iconName": "quinn_passive.png",
+      "isPassive": true
+    }
+  ]
+}

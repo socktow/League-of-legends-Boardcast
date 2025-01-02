@@ -1,0 +1,64 @@
+{
+  "id": 92,
+  "alias": "Riven",
+  "name": "Riven",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Riven/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Riven/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Riven/loading.png",
+  "squareImg": "cache/game/14.24/champion/Riven/square.png",
+  "spells": [
+    {
+      "spellName": "RivenFengShuiEngine",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenbladeoftheexile.png",
+      "iconName": "rivenbladeoftheexile.png"
+    },
+    {
+      "spellName": "RivenIzunaBlade",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenwindscar.png",
+      "iconName": "rivenwindscar.png"
+    },
+    {
+      "spellName": "RivenTriCleave",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenbrokenwings.png",
+      "iconName": "rivenbrokenwings.png"
+    },
+    {
+      "spellName": "RivenTriCleaveBuffer",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenbrokenwings.png",
+      "iconName": "rivenbrokenwings.png"
+    },
+    {
+      "spellName": "RivenTriCleaveBufferB",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenbrokenwings.png",
+      "iconName": "rivenbrokenwings.png"
+    },
+    {
+      "spellName": "RivenTriCleaveDamage",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenbrokenwings.png",
+      "iconName": "rivenbrokenwings.png"
+    },
+    {
+      "spellName": "RivenMartyr",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenkishout.png",
+      "iconName": "rivenkishout.png"
+    },
+    {
+      "spellName": "RivenFeint",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenpathoftheexile.png",
+      "iconName": "rivenpathoftheexile.png"
+    },
+    {
+      "spellName": "RivenPassive",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenrunicblades.png",
+      "iconName": "rivenrunicblades.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "RivenPassiveAABoost",
+      "iconAsset": "cache/game/14.24/champion/Riven/abilities/rivenrunicblades.png",
+      "iconName": "rivenrunicblades.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 360,
+  "alias": "Samira",
+  "name": "Samira",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Samira/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Samira/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Samira/loading.png",
+  "squareImg": "cache/game/14.24/champion/Samira/square.png",
+  "spells": [
+    {
+      "spellName": "SamiraQ",
+      "iconAsset": "cache/game/14.24/champion/Samira/abilities/samiraq.png",
+      "iconName": "samiraq.png"
+    },
+    {
+      "spellName": "SamiraR",
+      "iconAsset": "cache/game/14.24/champion/Samira/abilities/samirar1.png",
+      "iconName": "samirar1.png"
+    },
+    {
+      "spellName": "SamiraW",
+      "iconAsset": "cache/game/14.24/champion/Samira/abilities/samiraw.png",
+      "iconName": "samiraw.png"
+    },
+    {
+      "spellName": "SamiraE",
+      "iconAsset": "cache/game/14.24/champion/Samira/abilities/samirae.png",
+      "iconName": "samirae.png"
+    },
+    {
+      "spellName": "SamiraPassive",
+      "iconAsset": "cache/game/14.24/champion/Samira/abilities/samirap.png",
+      "iconName": "samirap.png",
+      "isPassive": true
+    }
+  ]
+}

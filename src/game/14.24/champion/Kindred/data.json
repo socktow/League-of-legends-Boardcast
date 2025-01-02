@@ -1,0 +1,58 @@
+{
+  "id": 203,
+  "alias": "Kindred",
+  "name": "Kindred",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Kindred/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Kindred/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Kindred/loading.png",
+  "squareImg": "cache/game/14.24/champion/Kindred/square.png",
+  "spells": [
+    {
+      "spellName": "KindredQ",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_q.png",
+      "iconName": "kindred_q.png"
+    },
+    {
+      "spellName": "KindredQ_URFWrapper",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_q.png",
+      "iconName": "kindred_q.png"
+    },
+    {
+      "spellName": "KindredW",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_w.png",
+      "iconName": "kindred_w.png"
+    },
+    {
+      "spellName": "KindredEWrapper",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_e.png",
+      "iconName": "kindred_e.png"
+    },
+    {
+      "spellName": "KindredERefresher",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_e.png",
+      "iconName": "kindred_e.png"
+    },
+    {
+      "spellName": "KindredR",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_r.png",
+      "iconName": "kindred_r.png"
+    },
+    {
+      "spellName": "KindredRWrapper",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_r.png",
+      "iconName": "kindred_r.png"
+    },
+    {
+      "spellName": "KindredPassiveManager",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/kindred_passive.png",
+      "iconName": "kindred_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KindredMarkoftheKindredSpell",
+      "iconAsset": "cache/game/14.24/champion/Kindred/abilities/summoner_clairvoyance.png",
+      "iconName": "summoner_clairvoyance.png"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": 432,
+  "alias": "Bard",
+  "name": "Bard",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/14.24/champion/Bard/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Bard/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Bard/loading.png",
+  "squareImg": "cache/game/14.24/champion/Bard/square.png",
+  "spells": [
+    {
+      "spellName": "BardQ",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_q.png",
+      "iconName": "bard_q.png"
+    },
+    {
+      "spellName": "BardW",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_w.png",
+      "iconName": "bard_w.png"
+    },
+    {
+      "spellName": "BardE",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_e.png",
+      "iconName": "bard_e.png"
+    },
+    {
+      "spellName": "BardR",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_r.png",
+      "iconName": "bard_r.png"
+    },
+    {
+      "spellName": "BardPTooltip_D_nS",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPSpiritMissile",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_meeps.png",
+      "iconName": "bard_meeps.png"
+    },
+    {
+      "spellName": "BardPTooltip_DS_nD",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DS_nM",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSAM_nA",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSAM_nD",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSAM_nM",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSAM_nR",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSAM_nS",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSM_nA",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "BardPTooltip_DSM_nD",
+      "iconAsset": "cache/game/14.24/champion/Bard/abilities/bard_passive.png",
+      "iconName": "bard_passive.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 30,
+  "alias": "Karthus",
+  "name": "Karthus",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Karthus/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Karthus/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Karthus/loading.png",
+  "squareImg": "cache/game/14.24/champion/Karthus/square.png",
+  "spells": [
+    {
+      "spellName": "KarthusLayWasteA1",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusLayWasteA2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusLayWasteA3",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusLayWasteDeadA1",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusLayWasteDeadA2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusLayWasteDeadA3",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_q.png",
+      "iconName": "karthus_q.png"
+    },
+    {
+      "spellName": "KarthusWallOfPain",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_w.png",
+      "iconName": "karthus_w.png"
+    },
+    {
+      "spellName": "KarthusWallOfPain2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_w.png",
+      "iconName": "karthus_w.png"
+    },
+    {
+      "spellName": "KarthusDefile",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_e.png",
+      "iconName": "karthus_e.png"
+    },
+    {
+      "spellName": "KarthusDefileSoundDummy2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_e.png",
+      "iconName": "karthus_e.png"
+    },
+    {
+      "spellName": "KarthusDefile2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_e.png",
+      "iconName": "karthus_e.png"
+    },
+    {
+      "spellName": "KarthusFallenOne",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_r.png",
+      "iconName": "karthus_r.png"
+    },
+    {
+      "spellName": "KarthusFallenOne2",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_r.png",
+      "iconName": "karthus_r.png"
+    },
+    {
+      "spellName": "KarthusDeathDefied",
+      "iconAsset": "cache/game/14.24/champion/Karthus/abilities/karthus_passive.png",
+      "iconName": "karthus_passive.png",
+      "isPassive": true
+    }
+  ]
+}

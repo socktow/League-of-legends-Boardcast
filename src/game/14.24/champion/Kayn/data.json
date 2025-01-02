@@ -1,0 +1,48 @@
+{
+  "id": 141,
+  "alias": "Kayn",
+  "name": "Kayn",
+  "attackSpeed": 0.669,
+  "splashCenteredImg": "cache/game/14.24/champion/Kayn/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Kayn/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Kayn/loading.png",
+  "squareImg": "cache/game/14.24/champion/Kayn/square.png",
+  "spells": [
+    {
+      "spellName": "KaynR",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_r1_primary.png",
+      "iconName": "kayn_r1_primary.png"
+    },
+    {
+      "spellName": "KaynRJumpOut",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_r2_primary.png",
+      "iconName": "kayn_r2_primary.png"
+    },
+    {
+      "spellName": "KaynW",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_w_primary.png",
+      "iconName": "kayn_w_primary.png"
+    },
+    {
+      "spellName": "KaynAssW",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_w_ass.png",
+      "iconName": "kayn_w_ass.png"
+    },
+    {
+      "spellName": "KaynQ",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_q_primary.png",
+      "iconName": "kayn_q_primary.png"
+    },
+    {
+      "spellName": "KaynE",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_e_primary.png",
+      "iconName": "kayn_e_primary.png"
+    },
+    {
+      "spellName": "KaynPassive",
+      "iconAsset": "cache/game/14.24/champion/Kayn/abilities/kayn_passive_primary.png",
+      "iconName": "kayn_passive_primary.png",
+      "isPassive": true
+    }
+  ]
+}

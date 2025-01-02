@@ -1,0 +1,47 @@
+{
+  "id": 53,
+  "alias": "Blitzcrank",
+  "name": "Blitzcrank",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Blitzcrank/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Blitzcrank/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Blitzcrank/loading.png",
+  "squareImg": "cache/game/14.24/champion/Blitzcrank/square.png",
+  "spells": [
+    {
+      "spellName": "StaticField",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrankr.png",
+      "iconName": "blitzcrankr.png"
+    },
+    {
+      "spellName": "RocketGrab",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrankq.png",
+      "iconName": "blitzcrankq.png"
+    },
+    {
+      "spellName": "RocketGrabMissile",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrank_rocketgrab.png",
+      "iconName": "blitzcrank_rocketgrab.png"
+    },
+    {
+      "spellName": "Overdrive",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrankw.png",
+      "iconName": "blitzcrankw.png"
+    },
+    {
+      "spellName": "PowerFist",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcranke.png",
+      "iconName": "blitzcranke.png"
+    },
+    {
+      "spellName": "ManaBarrierIcon",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrankp.png",
+      "iconName": "blitzcrankp.png"
+    },
+    {
+      "spellName": "ManaBarrierCooldown",
+      "iconAsset": "cache/game/14.24/champion/Blitzcrank/abilities/blitzcrankpcd.png",
+      "iconName": "blitzcrankpcd.png"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 37,
+  "alias": "Sona",
+  "name": "Sona",
+  "attackSpeed": 0.644,
+  "splashCenteredImg": "cache/game/14.24/champion/Sona/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Sona/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Sona/loading.png",
+  "squareImg": "cache/game/14.24/champion/Sona/square.png",
+  "spells": [
+    {
+      "spellName": "SonaQ",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_q.png",
+      "iconName": "sona_q.png"
+    },
+    {
+      "spellName": "SonaQMissile",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_q.png",
+      "iconName": "sona_q.png"
+    },
+    {
+      "spellName": "SonaW",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_w.png",
+      "iconName": "sona_w.png"
+    },
+    {
+      "spellName": "SonaE",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_e.png",
+      "iconName": "sona_e.png"
+    },
+    {
+      "spellName": "SonaPassive",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_passive_charged.png",
+      "iconName": "sona_passive_charged.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SonaPassiveAttack",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_passive_charged.png",
+      "iconName": "sona_passive_charged.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SonaPMissile3",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_passive_charged.png",
+      "iconName": "sona_passive_charged.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SonaPMissile2",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_passive_charged.png",
+      "iconName": "sona_passive_charged.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SonaPMissile",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_passive_charged.png",
+      "iconName": "sona_passive_charged.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SonaR",
+      "iconAsset": "cache/game/14.24/champion/Sona/abilities/sona_r.png",
+      "iconName": "sona_r.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 9,
+  "alias": "FiddleSticks",
+  "name": "Fiddlesticks",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/FiddleSticks/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/FiddleSticks/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/FiddleSticks/loading.png",
+  "squareImg": "cache/game/14.24/champion/FiddleSticks/square.png",
+  "spells": [
+    {
+      "spellName": "FiddleSticksQ",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksq.png",
+      "iconName": "fiddlesticksq.png"
+    },
+    {
+      "spellName": "FiddleSticksTerrifyBuff",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksq.png",
+      "iconName": "fiddlesticksq.png"
+    },
+    {
+      "spellName": "FiddleSticksW",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksw.png",
+      "iconName": "fiddlesticksw.png"
+    },
+    {
+      "spellName": "FiddleSticksE",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlestickse.png",
+      "iconName": "fiddlestickse.png"
+    },
+    {
+      "spellName": "FiddleSticksR",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksr.png",
+      "iconName": "fiddlesticksr.png"
+    },
+    {
+      "spellName": "FiddleSticksPassive",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksp.png",
+      "iconName": "fiddlesticksp.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "FiddleSticksPassiveAnimationFreeze",
+      "iconAsset": "cache/game/14.24/champion/FiddleSticks/abilities/fiddlesticksp.png",
+      "iconName": "fiddlesticksp.png",
+      "isPassive": true
+    }
+  ]
+}

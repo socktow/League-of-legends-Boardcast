@@ -1,0 +1,70 @@
+{
+  "id": 84,
+  "alias": "Akali",
+  "name": "Akali",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Akali/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Akali/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Akali/loading.png",
+  "squareImg": "cache/game/14.24/champion/Akali/square.png",
+  "spells": [
+    {
+      "spellName": "AkaliRb",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_r2.png",
+      "iconName": "akali_r2.png"
+    },
+    {
+      "spellName": "AkaliR",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_r.png",
+      "iconName": "akali_r.png"
+    },
+    {
+      "spellName": "AkaliQ",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_q.png",
+      "iconName": "akali_q.png"
+    },
+    {
+      "spellName": "AkaliW",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_w.png",
+      "iconName": "akali_w.png"
+    },
+    {
+      "spellName": "AkaliWHaste",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_w.png",
+      "iconName": "akali_w.png"
+    },
+    {
+      "spellName": "AkaliE",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_e.png",
+      "iconName": "akali_e.png"
+    },
+    {
+      "spellName": "AkaliEb",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_e2.png",
+      "iconName": "akali_e2.png"
+    },
+    {
+      "spellName": "AkaliEMis",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_e2.png",
+      "iconName": "akali_e2.png"
+    },
+    {
+      "spellName": "AkaliP",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_p.png",
+      "iconName": "akali_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "AkaliPWeapon",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_p.png",
+      "iconName": "akali_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "AkaliPZoneGround",
+      "iconAsset": "cache/game/14.24/champion/Akali/abilities/akali_p.png",
+      "iconName": "akali_p.png",
+      "isPassive": true
+    }
+  ]
+}

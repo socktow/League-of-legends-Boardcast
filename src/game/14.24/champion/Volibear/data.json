@@ -1,0 +1,43 @@
+{
+  "id": 106,
+  "alias": "Volibear",
+  "name": "Volibear",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Volibear/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Volibear/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Volibear/loading.png",
+  "squareImg": "cache/game/14.24/champion/Volibear/square.png",
+  "spells": [
+    {
+      "spellName": "VolibearQ",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_q.png",
+      "iconName": "volibear_icon_q.png"
+    },
+    {
+      "spellName": "VolibearQAttack",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_q.png",
+      "iconName": "volibear_icon_q.png"
+    },
+    {
+      "spellName": "VolibearW",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_w.png",
+      "iconName": "volibear_icon_w.png"
+    },
+    {
+      "spellName": "VolibearE",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_e.png",
+      "iconName": "volibear_icon_e.png"
+    },
+    {
+      "spellName": "VolibearR",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_r.png",
+      "iconName": "volibear_icon_r.png"
+    },
+    {
+      "spellName": "VolibearP",
+      "iconAsset": "cache/game/14.24/champion/Volibear/abilities/volibear_icon_p.png",
+      "iconName": "volibear_icon_p.png",
+      "isPassive": true
+    }
+  ]
+}

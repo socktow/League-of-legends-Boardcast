@@ -1,0 +1,43 @@
+{
+  "id": 161,
+  "alias": "Velkoz",
+  "name": "Vel\u0027Koz",
+  "attackSpeed": 0.643,
+  "splashCenteredImg": "cache/game/14.24/champion/Velkoz/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Velkoz/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Velkoz/loading.png",
+  "squareImg": "cache/game/14.24/champion/Velkoz/square.png",
+  "spells": [
+    {
+      "spellName": "VelkozQ",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_q1.png",
+      "iconName": "velkoz_q1.png"
+    },
+    {
+      "spellName": "VelkozQSplitActivate",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_q2.png",
+      "iconName": "velkoz_q2.png"
+    },
+    {
+      "spellName": "VelkozW",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_w.png",
+      "iconName": "velkoz_w.png"
+    },
+    {
+      "spellName": "VelkozE",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_e.png",
+      "iconName": "velkoz_e.png"
+    },
+    {
+      "spellName": "VelkozR",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_r.png",
+      "iconName": "velkoz_r.png"
+    },
+    {
+      "spellName": "VelkozPassive",
+      "iconAsset": "cache/game/14.24/champion/Velkoz/abilities/velkoz_passive.png",
+      "iconName": "velkoz_passive.png",
+      "isPassive": true
+    }
+  ]
+}

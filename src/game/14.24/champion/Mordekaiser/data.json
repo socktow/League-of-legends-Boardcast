@@ -1,0 +1,38 @@
+{
+  "id": 82,
+  "alias": "Mordekaiser",
+  "name": "Mordekaiser",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/14.24/champion/Mordekaiser/splashCentered.jpg",
+  "splashImg": "cache/game/14.24/champion/Mordekaiser/splash.jpg",
+  "loadingImg": "cache/game/14.24/champion/Mordekaiser/loading.png",
+  "squareImg": "cache/game/14.24/champion/Mordekaiser/square.png",
+  "spells": [
+    {
+      "spellName": "MordekaiserR",
+      "iconAsset": "cache/game/14.24/champion/Mordekaiser/abilities/mordekaiserr.png",
+      "iconName": "mordekaiserr.png"
+    },
+    {
+      "spellName": "MordekaiserQ",
+      "iconAsset": "cache/game/14.24/champion/Mordekaiser/abilities/mordekaiserq.png",
+      "iconName": "mordekaiserq.png"
+    },
+    {
+      "spellName": "MordekaiserE",
+      "iconAsset": "cache/game/14.24/champion/Mordekaiser/abilities/mordekaisere.png",
+      "iconName": "mordekaisere.png"
+    },
+    {
+      "spellName": "MordekaiserPassive",
+      "iconAsset": "cache/game/14.24/champion/Mordekaiser/abilities/mordekaiserpassive.png",
+      "iconName": "mordekaiserpassive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "MordekaiserW",
+      "iconAsset": "cache/game/14.24/champion/Mordekaiser/abilities/mordekaiserw.png",
+      "iconName": "mordekaiserw.png"
+    }
+  ]
+}
