@@ -1,0 +1,53 @@
+{
+  "id": 50,
+  "alias": "Swain",
+  "name": "Swain",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Swain/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Swain/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Swain/loading.png",
+  "squareImg": "cache/game/15.1/champion/Swain/square.png",
+  "spells": [
+    {
+      "spellName": "SwainR",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_r.png",
+      "iconName": "swain_r.png"
+    },
+    {
+      "spellName": "SwainRSoulFlare",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_r2.png",
+      "iconName": "swain_r2.png"
+    },
+    {
+      "spellName": "SwainQ",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_q.png",
+      "iconName": "swain_q.png"
+    },
+    {
+      "spellName": "SwainW",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_w.png",
+      "iconName": "swain_w.png"
+    },
+    {
+      "spellName": "SwainE",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_e.png",
+      "iconName": "swain_e.png"
+    },
+    {
+      "spellName": "SwainE2",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_e2.png",
+      "iconName": "swain_e2.png"
+    },
+    {
+      "spellName": "SwainEReturnMissile",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_e.png",
+      "iconName": "swain_e.png"
+    },
+    {
+      "spellName": "SwainPassive",
+      "iconAsset": "cache/game/15.1/champion/Swain/abilities/swain_p.png",
+      "iconName": "swain_p.png",
+      "isPassive": true
+    }
+  ]
+}

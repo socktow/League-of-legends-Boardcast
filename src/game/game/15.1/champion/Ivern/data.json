@@ -1,0 +1,68 @@
+{
+  "id": 427,
+  "alias": "Ivern",
+  "name": "Ivern",
+  "attackSpeed": 0.644,
+  "splashCenteredImg": "cache/game/15.1/champion/Ivern/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Ivern/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Ivern/loading.png",
+  "squareImg": "cache/game/15.1/champion/Ivern/square.png",
+  "spells": [
+    {
+      "spellName": "IvernR",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernr.png",
+      "iconName": "ivernr.png"
+    },
+    {
+      "spellName": "IvernRRecast",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernr2.png",
+      "iconName": "ivernr2.png"
+    },
+    {
+      "spellName": "IvernRChargeGolem",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernr.png",
+      "iconName": "ivernr.png"
+    },
+    {
+      "spellName": "IvernRMissile",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernr2.png",
+      "iconName": "ivernr2.png"
+    },
+    {
+      "spellName": "IvernQ",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernq.png",
+      "iconName": "ivernq.png"
+    },
+    {
+      "spellName": "IvernQRecast",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernq.png",
+      "iconName": "ivernq.png"
+    },
+    {
+      "spellName": "IvernP",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernp.png",
+      "iconName": "ivernp.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "IvernW",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernw.png",
+      "iconName": "ivernw.png"
+    },
+    {
+      "spellName": "IvernWMissile",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernw.png",
+      "iconName": "ivernw.png"
+    },
+    {
+      "spellName": "IvernWMissile1",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/ivernw.png",
+      "iconName": "ivernw.png"
+    },
+    {
+      "spellName": "IvernE",
+      "iconAsset": "cache/game/15.1/champion/Ivern/abilities/iverne.png",
+      "iconName": "iverne.png"
+    }
+  ]
+}

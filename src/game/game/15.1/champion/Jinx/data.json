@@ -1,0 +1,74 @@
+{
+  "id": 222,
+  "alias": "Jinx",
+  "name": "Jinx",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Jinx/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Jinx/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Jinx/loading.png",
+  "squareImg": "cache/game/15.1/champion/Jinx/square.png",
+  "spells": [
+    {
+      "spellName": "JinxPassiveMarker",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_passive.png",
+      "iconName": "jinx_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "JinxPassiveKillAttackSpeed",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_passive.png",
+      "iconName": "jinx_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "JinxR",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_r.png",
+      "iconName": "jinx_r.png"
+    },
+    {
+      "spellName": "JinxE",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_e.png",
+      "iconName": "jinx_e.png"
+    },
+    {
+      "spellName": "JinxEFireBurn",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_e_debuff.png",
+      "iconName": "jinx_e_debuff.png"
+    },
+    {
+      "spellName": "JinxEMine",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/caitlyn_yordlesnaptrap.png",
+      "iconName": "caitlyn_yordlesnaptrap.png"
+    },
+    {
+      "spellName": "JinxEMineSnare",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_e.png",
+      "iconName": "jinx_e.png"
+    },
+    {
+      "spellName": "JinxW",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_w.png",
+      "iconName": "jinx_w.png"
+    },
+    {
+      "spellName": "JinxQ",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_q1.png",
+      "iconName": "jinx_q1.png"
+    },
+    {
+      "spellName": "JinxQAttack",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_q1.png",
+      "iconName": "jinx_q1.png"
+    },
+    {
+      "spellName": "JinxQAttack2",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_q1.png",
+      "iconName": "jinx_q1.png"
+    },
+    {
+      "spellName": "JinxQCritAttack",
+      "iconAsset": "cache/game/15.1/champion/Jinx/abilities/jinx_q1.png",
+      "iconName": "jinx_q1.png"
+    }
+  ]
+}

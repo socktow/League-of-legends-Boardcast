@@ -1,0 +1,98 @@
+{
+  "id": 26,
+  "alias": "Zilean",
+  "name": "Zilean",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Zilean/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Zilean/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Zilean/loading.png",
+  "squareImg": "cache/game/15.1/champion/Zilean/square.png",
+  "spells": [
+    {
+      "spellName": "ZileanQ",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_q.png",
+      "iconName": "zilean_q.png"
+    },
+    {
+      "spellName": "ZileanQAllyBomb",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_q.png",
+      "iconName": "zilean_q.png"
+    },
+    {
+      "spellName": "ZileanQAttachAudio",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_e.png",
+      "iconName": "zilean_e.png"
+    },
+    {
+      "spellName": "ZileanQAttachMissile",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanQAttachMissileMinion",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanQAttachMissileShort",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanQAttachMissileTall",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanQBuffer",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_q.png",
+      "iconName": "zilean_q.png"
+    },
+    {
+      "spellName": "ZileanQEnemyBomb",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_q.png",
+      "iconName": "zilean_q.png"
+    },
+    {
+      "spellName": "ZileanQLandingAudio",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_e.png",
+      "iconName": "zilean_e.png"
+    },
+    {
+      "spellName": "ZileanQMissile",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanQMissileImplementor",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/chronokeeper_chronoblast.png",
+      "iconName": "chronokeeper_chronoblast.png"
+    },
+    {
+      "spellName": "ZileanW",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_w.png",
+      "iconName": "zilean_w.png"
+    },
+    {
+      "spellName": "TimeWarp",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_e.png",
+      "iconName": "zilean_e.png"
+    },
+    {
+      "spellName": "ChronoShift",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_r.png",
+      "iconName": "zilean_r.png"
+    },
+    {
+      "spellName": "HeightenedLearning",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/zilean_passive.png",
+      "iconName": "zilean_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "ZileanPassiveChannel",
+      "iconAsset": "cache/game/15.1/champion/Zilean/abilities/yeti_shatter.png",
+      "iconName": "yeti_shatter.png"
+    }
+  ]
+}

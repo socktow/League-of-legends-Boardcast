@@ -1,0 +1,48 @@
+{
+  "id": 41,
+  "alias": "Gangplank",
+  "name": "Gangplank",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Gangplank/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Gangplank/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Gangplank/loading.png",
+  "squareImg": "cache/game/15.1/champion/Gangplank/square.png",
+  "spells": [
+    {
+      "spellName": "GangplankQWrapper",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_q.png",
+      "iconName": "gangplank_q.png"
+    },
+    {
+      "spellName": "GangplankW",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_w.png",
+      "iconName": "gangplank_w.png"
+    },
+    {
+      "spellName": "GangplankE",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_e.png",
+      "iconName": "gangplank_e.png"
+    },
+    {
+      "spellName": "GangplankESpellPassive",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_e.png",
+      "iconName": "gangplank_e.png"
+    },
+    {
+      "spellName": "GangplankR",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_r.png",
+      "iconName": "gangplank_r.png"
+    },
+    {
+      "spellName": "GangplankRWithRaiseMorale",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_r.png",
+      "iconName": "gangplank_r.png"
+    },
+    {
+      "spellName": "GangplankPassive",
+      "iconAsset": "cache/game/15.1/champion/Gangplank/abilities/gangplank_passive.png",
+      "iconName": "gangplank_passive.png",
+      "isPassive": true
+    }
+  ]
+}

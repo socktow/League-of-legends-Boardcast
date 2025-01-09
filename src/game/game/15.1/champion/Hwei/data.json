@@ -1,0 +1,179 @@
+{
+  "id": 910,
+  "alias": "Hwei",
+  "name": "Hwei",
+  "attackSpeed": 0.69,
+  "splashCenteredImg": "cache/game/15.1/champion/Hwei/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Hwei/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Hwei/loading.png",
+  "squareImg": "cache/game/15.1/champion/Hwei/square.png",
+  "spells": [
+    {
+      "spellName": "HweiQ",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiq.png",
+      "iconName": "hweiq.png"
+    },
+    {
+      "spellName": "HweiQE",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqe.png",
+      "iconName": "hweiqe.png"
+    },
+    {
+      "spellName": "HweiQETell",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqe.png",
+      "iconName": "hweiqe.png"
+    },
+    {
+      "spellName": "HweiQQ",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqq.png",
+      "iconName": "hweiqq.png"
+    },
+    {
+      "spellName": "HweiQW",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqw.png",
+      "iconName": "hweiqw.png"
+    },
+    {
+      "spellName": "HweiWashBrush",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwashbrush.png",
+      "iconName": "hweiwashbrush.png"
+    },
+    {
+      "spellName": "HweiQELavaDPS",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqe.png",
+      "iconName": "hweiqe.png"
+    },
+    {
+      "spellName": "HweiQESlow",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiqe.png",
+      "iconName": "hweiqe.png"
+    },
+    {
+      "spellName": "HweiW",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiw.png",
+      "iconName": "hweiw.png"
+    },
+    {
+      "spellName": "HweiWE",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwe.png",
+      "iconName": "hweiwe.png"
+    },
+    {
+      "spellName": "HweiWQ",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwq.png",
+      "iconName": "hweiwq.png"
+    },
+    {
+      "spellName": "HweiWW",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiww.png",
+      "iconName": "hweiww.png"
+    },
+    {
+      "spellName": "HweiWashBrush",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwashbrush.png",
+      "iconName": "hweiwashbrush.png"
+    },
+    {
+      "spellName": "HweiWEFoxfireMis",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwe.png",
+      "iconName": "hweiwe.png"
+    },
+    {
+      "spellName": "HweiWQMoveSpeed",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwq.png",
+      "iconName": "hweiwq.png"
+    },
+    {
+      "spellName": "HweiWEBuffCounter",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwe.png",
+      "iconName": "hweiwe.png"
+    },
+    {
+      "spellName": "HweiWWShield",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiww.png",
+      "iconName": "hweiww.png"
+    },
+    {
+      "spellName": "HweiE",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweie.png",
+      "iconName": "hweie.png"
+    },
+    {
+      "spellName": "HweiEE",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiee.png",
+      "iconName": "hweiee.png"
+    },
+    {
+      "spellName": "HweiEQ",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweieq.png",
+      "iconName": "hweieq.png"
+    },
+    {
+      "spellName": "HweiEW",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiew.png",
+      "iconName": "hweiew.png"
+    },
+    {
+      "spellName": "HweiWashBrush",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwashbrush.png",
+      "iconName": "hweiwashbrush.png"
+    },
+    {
+      "spellName": "HweiEQFlee",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweieq.png",
+      "iconName": "hweieq.png"
+    },
+    {
+      "spellName": "HweiEWTriggerMissile",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiew.png",
+      "iconName": "hweiew.png"
+    },
+    {
+      "spellName": "HweiEEPull",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiee.png",
+      "iconName": "hweiee.png"
+    },
+    {
+      "spellName": "HweiEWRoot",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiew.png",
+      "iconName": "hweiew.png"
+    },
+    {
+      "spellName": "HweiEQSlow",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweieq.png",
+      "iconName": "hweieq.png"
+    },
+    {
+      "spellName": "HweiR",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweir.png",
+      "iconName": "hweir.png"
+    },
+    {
+      "spellName": "HweiWashBrush",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweiwashbrush.png",
+      "iconName": "hweiwashbrush.png"
+    },
+    {
+      "spellName": "HweiRDespair",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweir.png",
+      "iconName": "hweir.png"
+    },
+    {
+      "spellName": "HweiRDespairSlow",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweir.png",
+      "iconName": "hweir.png"
+    },
+    {
+      "spellName": "HweiPassive",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweipassive.png",
+      "iconName": "hweipassive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "HweiSignature",
+      "iconAsset": "cache/game/15.1/champion/Hwei/abilities/hweipassive.png",
+      "iconName": "hweipassive.png",
+      "isPassive": true
+    }
+  ]
+}

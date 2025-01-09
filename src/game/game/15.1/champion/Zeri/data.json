@@ -1,0 +1,58 @@
+{
+  "id": 221,
+  "alias": "Zeri",
+  "name": "Zeri",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Zeri/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Zeri/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Zeri/loading.png",
+  "squareImg": "cache/game/15.1/champion/Zeri/square.png",
+  "spells": [
+    {
+      "spellName": "ZeriQ",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zeriq.png",
+      "iconName": "zeriq.png"
+    },
+    {
+      "spellName": "ZeriQPassiveReady",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zeriqpassivecharged.png",
+      "iconName": "zeriqpassivecharged.png"
+    },
+    {
+      "spellName": "ZeriW",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zeriw.png",
+      "iconName": "zeriw.png"
+    },
+    {
+      "spellName": "ZeriE",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zerie.png",
+      "iconName": "zerie.png"
+    },
+    {
+      "spellName": "ZeriESpecialRounds",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zeriqe.png",
+      "iconName": "zeriqe.png"
+    },
+    {
+      "spellName": "ZeriR",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zerir.png",
+      "iconName": "zerir.png"
+    },
+    {
+      "spellName": "ZeriRStacks",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zerir.png",
+      "iconName": "zerir.png"
+    },
+    {
+      "spellName": "ZeriPassive",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zeriqpassivecharged.png",
+      "iconName": "zeriqpassivecharged.png"
+    },
+    {
+      "spellName": "ZeriPassiveShield",
+      "iconAsset": "cache/game/15.1/champion/Zeri/abilities/zerip.png",
+      "iconName": "zerip.png",
+      "isPassive": true
+    }
+  ]
+}

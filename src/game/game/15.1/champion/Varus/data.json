@@ -1,0 +1,43 @@
+{
+  "id": 110,
+  "alias": "Varus",
+  "name": "Varus",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Varus/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Varus/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Varus/loading.png",
+  "squareImg": "cache/game/15.1/champion/Varus/square.png",
+  "spells": [
+    {
+      "spellName": "VarusQ",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varusq.png",
+      "iconName": "varusq.png"
+    },
+    {
+      "spellName": "VarusQLaunch",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varusq.png",
+      "iconName": "varusq.png"
+    },
+    {
+      "spellName": "VarusW",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varusw.png",
+      "iconName": "varusw.png"
+    },
+    {
+      "spellName": "VarusE",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varuse.png",
+      "iconName": "varuse.png"
+    },
+    {
+      "spellName": "VarusR",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varusr.png",
+      "iconName": "varusr.png"
+    },
+    {
+      "spellName": "VarusPassive",
+      "iconAsset": "cache/game/15.1/champion/Varus/abilities/varuspassive.png",
+      "iconName": "varuspassive.png",
+      "isPassive": true
+    }
+  ]
+}

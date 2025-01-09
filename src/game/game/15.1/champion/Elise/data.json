@@ -1,0 +1,78 @@
+{
+  "id": 60,
+  "alias": "Elise",
+  "name": "Elise",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Elise/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Elise/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Elise/loading.png",
+  "squareImg": "cache/game/15.1/champion/Elise/square.png",
+  "spells": [
+    {
+      "spellName": "EliseR",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/eliser.png",
+      "iconName": "eliser.png"
+    },
+    {
+      "spellName": "EliseRSpider",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/eliser.png",
+      "iconName": "eliser.png"
+    },
+    {
+      "spellName": "EliseRDummy",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/eliser.png",
+      "iconName": "eliser.png"
+    },
+    {
+      "spellName": "EliseHumanQ",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisehumanq.png",
+      "iconName": "elisehumanq.png"
+    },
+    {
+      "spellName": "EliseSpiderQ",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespiderq.png",
+      "iconName": "elisespiderq.png"
+    },
+    {
+      "spellName": "EliseSpiderQCast",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespiderq.png",
+      "iconName": "elisespiderq.png"
+    },
+    {
+      "spellName": "EliseSpiderW",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespiderw.png",
+      "iconName": "elisespiderw.png"
+    },
+    {
+      "spellName": "EliseSpiderE",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespidere.png",
+      "iconName": "elisespidere.png"
+    },
+    {
+      "spellName": "EliseSpiderEDescent",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespidere.png",
+      "iconName": "elisespidere.png"
+    },
+    {
+      "spellName": "EliseSpiderEInitial",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisespidere.png",
+      "iconName": "elisespidere.png"
+    },
+    {
+      "spellName": "EliseHumanW",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisehumanw.png",
+      "iconName": "elisehumanw.png"
+    },
+    {
+      "spellName": "EliseHumanE",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisehumane.png",
+      "iconName": "elisehumane.png"
+    },
+    {
+      "spellName": "ElisePassive",
+      "iconAsset": "cache/game/15.1/champion/Elise/abilities/elisepassive.png",
+      "iconName": "elisepassive.png",
+      "isPassive": true
+    }
+  ]
+}

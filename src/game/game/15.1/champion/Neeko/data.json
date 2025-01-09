@@ -1,0 +1,43 @@
+{
+  "id": 518,
+  "alias": "Neeko",
+  "name": "Neeko",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Neeko/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Neeko/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Neeko/loading.png",
+  "squareImg": "cache/game/15.1/champion/Neeko/square.png",
+  "spells": [
+    {
+      "spellName": "NeekoR",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_r.png",
+      "iconName": "neeko_r.png"
+    },
+    {
+      "spellName": "NeekoQ",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_q.png",
+      "iconName": "neeko_q.png"
+    },
+    {
+      "spellName": "NeekoW",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_w.png",
+      "iconName": "neeko_w.png"
+    },
+    {
+      "spellName": "NeekoW2",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_w2.png",
+      "iconName": "neeko_w2.png"
+    },
+    {
+      "spellName": "NeekoE",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_e.png",
+      "iconName": "neeko_e.png"
+    },
+    {
+      "spellName": "NeekoPassive",
+      "iconAsset": "cache/game/15.1/champion/Neeko/abilities/neeko_p.png",
+      "iconName": "neeko_p.png",
+      "isPassive": true
+    }
+  ]
+}

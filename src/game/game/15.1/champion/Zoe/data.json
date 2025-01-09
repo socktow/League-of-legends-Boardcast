@@ -1,0 +1,113 @@
+{
+  "id": 142,
+  "alias": "Zoe",
+  "name": "Zoe",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Zoe/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Zoe/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Zoe/loading.png",
+  "squareImg": "cache/game/15.1/champion/Zoe/square.png",
+  "spells": [
+    {
+      "spellName": "ZoeQ",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_q.png",
+      "iconName": "zoe_q.png"
+    },
+    {
+      "spellName": "ZoeQRecast",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_q2.png",
+      "iconName": "zoe_q2.png"
+    },
+    {
+      "spellName": "ZoeW",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_w.png",
+      "iconName": "zoe_w.png"
+    },
+    {
+      "spellName": "ZoeW_S5_SummonerSmiteDuel",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/smite_red.png",
+      "iconName": "smite_red.png"
+    },
+    {
+      "spellName": "ZoeW_S5_SummonerSmitePlayerGanker",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/smite_blue.png",
+      "iconName": "smite_blue.png"
+    },
+    {
+      "spellName": "ZoeW_SummonerBoost",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/summoner_boost.png",
+      "iconName": "summoner_boost.png"
+    },
+    {
+      "spellName": "ZoeW_SummonerSmite",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/summoner_smite.png",
+      "iconName": "summoner_smite.png"
+    },
+    {
+      "spellName": "ZoeW_SummonerTeleport",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/summoner_teleport.png",
+      "iconName": "summoner_teleport.png"
+    },
+    {
+      "spellName": "ZoeE",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEb",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEb2",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEb3",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEb4",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEb5",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEMis",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEMis2",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEMisAudio",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeEv8",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_e.png",
+      "iconName": "zoe_e.png"
+    },
+    {
+      "spellName": "ZoeR",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_r.png",
+      "iconName": "zoe_r.png"
+    },
+    {
+      "spellName": "ZoePassive",
+      "iconAsset": "cache/game/15.1/champion/Zoe/abilities/zoe_p.png",
+      "iconName": "zoe_p.png",
+      "isPassive": true
+    }
+  ]
+}

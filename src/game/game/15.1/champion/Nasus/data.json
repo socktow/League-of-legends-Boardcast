@@ -1,0 +1,38 @@
+{
+  "id": 75,
+  "alias": "Nasus",
+  "name": "Nasus",
+  "attackSpeed": 0.638,
+  "splashCenteredImg": "cache/game/15.1/champion/Nasus/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Nasus/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Nasus/loading.png",
+  "squareImg": "cache/game/15.1/champion/Nasus/square.png",
+  "spells": [
+    {
+      "spellName": "NasusQ",
+      "iconAsset": "cache/game/15.1/champion/Nasus/abilities/nasus_q.png",
+      "iconName": "nasus_q.png"
+    },
+    {
+      "spellName": "NasusW",
+      "iconAsset": "cache/game/15.1/champion/Nasus/abilities/nasus_w.png",
+      "iconName": "nasus_w.png"
+    },
+    {
+      "spellName": "NasusE",
+      "iconAsset": "cache/game/15.1/champion/Nasus/abilities/nasus_e.png",
+      "iconName": "nasus_e.png"
+    },
+    {
+      "spellName": "NasusR",
+      "iconAsset": "cache/game/15.1/champion/Nasus/abilities/nasus_r.png",
+      "iconName": "nasus_r.png"
+    },
+    {
+      "spellName": "NasusPassive",
+      "iconAsset": "cache/game/15.1/champion/Nasus/abilities/nasus_passive.png",
+      "iconName": "nasus_passive.png",
+      "isPassive": true
+    }
+  ]
+}

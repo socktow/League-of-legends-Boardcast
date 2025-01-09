@@ -1,0 +1,58 @@
+{
+  "id": 897,
+  "alias": "KSante",
+  "name": "K\u0027Sante",
+  "attackSpeed": 0.688,
+  "splashCenteredImg": "cache/game/15.1/champion/KSante/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/KSante/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/KSante/loading.png",
+  "squareImg": "cache/game/15.1/champion/KSante/square.png",
+  "spells": [
+    {
+      "spellName": "KSanteQ",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_q1.png",
+      "iconName": "icons_ksante_q1.png"
+    },
+    {
+      "spellName": "KSanteQ3",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_q3.png",
+      "iconName": "icons_ksante_q3.png"
+    },
+    {
+      "spellName": "KSanteQ3Missile",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/ornnq.png",
+      "iconName": "ornnq.png"
+    },
+    {
+      "spellName": "KSanteE",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_e.png",
+      "iconName": "icons_ksante_e.png"
+    },
+    {
+      "spellName": "KSanteEAllyDash",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_e.png",
+      "iconName": "icons_ksante_e.png"
+    },
+    {
+      "spellName": "KSanteP",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_p.png",
+      "iconName": "icons_ksante_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KSanteR",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_r1.png",
+      "iconName": "icons_ksante_r1.png"
+    },
+    {
+      "spellName": "KSanteREndEarly",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_r2.png",
+      "iconName": "icons_ksante_r2.png"
+    },
+    {
+      "spellName": "KSanteW",
+      "iconAsset": "cache/game/15.1/champion/KSante/abilities/icons_ksante_w.png",
+      "iconName": "icons_ksante_w.png"
+    }
+  ]
+}

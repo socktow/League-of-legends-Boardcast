@@ -1,0 +1,49 @@
+{
+  "id": 99,
+  "alias": "Lux",
+  "name": "Lux",
+  "attackSpeed": 0.669,
+  "splashCenteredImg": "cache/game/15.1/champion/Lux/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Lux/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Lux/loading.png",
+  "squareImg": "cache/game/15.1/champion/Lux/square.png",
+  "spells": [
+    {
+      "spellName": "LuxR",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxfinalefunkeln.png",
+      "iconName": "luxfinalefunkeln.png"
+    },
+    {
+      "spellName": "LuxLightBinding",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxcrashingblitz2.png",
+      "iconName": "luxcrashingblitz2.png"
+    },
+    {
+      "spellName": "LuxPrismaticWave",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxprismawrap.png",
+      "iconName": "luxprismawrap.png"
+    },
+    {
+      "spellName": "LuxLightStrikeKugel",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxlightstrikekugel.png",
+      "iconName": "luxlightstrikekugel.png"
+    },
+    {
+      "spellName": "LuxLightstrikeToggle",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxlightstrikekugel.png",
+      "iconName": "luxlightstrikekugel.png"
+    },
+    {
+      "spellName": "LuxIlluminationPassive",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxilluminatingfraulein.png",
+      "iconName": "luxilluminatingfraulein.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "LuxIlluminatingFraulein",
+      "iconAsset": "cache/game/15.1/champion/Lux/abilities/luxilluminatingfraulein.png",
+      "iconName": "luxilluminatingfraulein.png",
+      "isPassive": true
+    }
+  ]
+}

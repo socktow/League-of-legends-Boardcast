@@ -1,0 +1,38 @@
+{
+  "id": 114,
+  "alias": "Fiora",
+  "name": "Fiora",
+  "attackSpeed": 0.69,
+  "splashCenteredImg": "cache/game/15.1/champion/Fiora/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Fiora/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Fiora/loading.png",
+  "squareImg": "cache/game/15.1/champion/Fiora/square.png",
+  "spells": [
+    {
+      "spellName": "FioraQ",
+      "iconAsset": "cache/game/15.1/champion/Fiora/abilities/fiora_q.png",
+      "iconName": "fiora_q.png"
+    },
+    {
+      "spellName": "FioraW",
+      "iconAsset": "cache/game/15.1/champion/Fiora/abilities/fiora_w.png",
+      "iconName": "fiora_w.png"
+    },
+    {
+      "spellName": "FioraE",
+      "iconAsset": "cache/game/15.1/champion/Fiora/abilities/fiora_e.png",
+      "iconName": "fiora_e.png"
+    },
+    {
+      "spellName": "FioraR",
+      "iconAsset": "cache/game/15.1/champion/Fiora/abilities/fiora_r.png",
+      "iconName": "fiora_r.png"
+    },
+    {
+      "spellName": "FioraPassive",
+      "iconAsset": "cache/game/15.1/champion/Fiora/abilities/fiora_p.png",
+      "iconName": "fiora_p.png",
+      "isPassive": true
+    }
+  ]
+}

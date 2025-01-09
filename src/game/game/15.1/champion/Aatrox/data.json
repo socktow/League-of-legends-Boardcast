@@ -1,0 +1,48 @@
+{
+  "id": 266,
+  "alias": "Aatrox",
+  "name": "Aatrox",
+  "attackSpeed": 0.651,
+  "splashCenteredImg": "cache/game/15.1/champion/Aatrox/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Aatrox/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Aatrox/loading.png",
+  "squareImg": "cache/game/15.1/champion/Aatrox/square.png",
+  "spells": [
+    {
+      "spellName": "AatroxR",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_r.png",
+      "iconName": "aatrox_r.png"
+    },
+    {
+      "spellName": "AatroxQ",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_q.png",
+      "iconName": "aatrox_q.png"
+    },
+    {
+      "spellName": "AatroxQ2",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_q2.png",
+      "iconName": "aatrox_q2.png"
+    },
+    {
+      "spellName": "AatroxQ3",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_q3.png",
+      "iconName": "aatrox_q3.png"
+    },
+    {
+      "spellName": "AatroxW",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_w.png",
+      "iconName": "aatrox_w.png"
+    },
+    {
+      "spellName": "AatroxE",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_e.png",
+      "iconName": "aatrox_e.png"
+    },
+    {
+      "spellName": "AatroxPassive",
+      "iconAsset": "cache/game/15.1/champion/Aatrox/abilities/aatrox_passive.png",
+      "iconName": "aatrox_passive.png",
+      "isPassive": true
+    }
+  ]
+}

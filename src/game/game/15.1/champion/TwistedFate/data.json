@@ -1,0 +1,78 @@
+{
+  "id": 4,
+  "alias": "TwistedFate",
+  "name": "Twisted Fate",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/TwistedFate/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/TwistedFate/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/TwistedFate/loading.png",
+  "squareImg": "cache/game/15.1/champion/TwistedFate/square.png",
+  "spells": [
+    {
+      "spellName": "Destiny",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/destiny_temp.png",
+      "iconName": "destiny_temp.png"
+    },
+    {
+      "spellName": "Gate",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_premonition.png",
+      "iconName": "cardmaster_premonition.png"
+    },
+    {
+      "spellName": "WildCards",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_powercard.png",
+      "iconName": "cardmaster_powercard.png"
+    },
+    {
+      "spellName": "CardmasterStack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_rapidtoss.png",
+      "iconName": "cardmaster_rapidtoss.png"
+    },
+    {
+      "spellName": "SecondSight",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_sealfate.png",
+      "iconName": "cardmaster_sealfate.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "PickACard",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "BlueCardAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "BlueCardPreAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "GoldCardAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "GoldCardPreAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "RedCardAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "RedCardPreAttack",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_fatesgambit.png",
+      "iconName": "cardmaster_fatesgambit.png"
+    },
+    {
+      "spellName": "GoldCardLock",
+      "iconAsset": "cache/game/15.1/champion/TwistedFate/abilities/cardmaster_gold.png",
+      "iconName": "cardmaster_gold.png"
+    }
+  ]
+}

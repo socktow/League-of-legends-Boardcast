@@ -1,0 +1,43 @@
+{
+  "id": 120,
+  "alias": "Hecarim",
+  "name": "Hecarim",
+  "attackSpeed": 0.67,
+  "splashCenteredImg": "cache/game/15.1/champion/Hecarim/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Hecarim/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Hecarim/loading.png",
+  "squareImg": "cache/game/15.1/champion/Hecarim/square.png",
+  "spells": [
+    {
+      "spellName": "HecarimUlt",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_onslaughtofshadows.png",
+      "iconName": "hecarim_onslaughtofshadows.png"
+    },
+    {
+      "spellName": "HecarimRapidSlash",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_rampage.png",
+      "iconName": "hecarim_rampage.png"
+    },
+    {
+      "spellName": "HecarimW",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_spiritofdread.png",
+      "iconName": "hecarim_spiritofdread.png"
+    },
+    {
+      "spellName": "HecarimRamp",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_devastingcharge.png",
+      "iconName": "hecarim_devastingcharge.png"
+    },
+    {
+      "spellName": "HecarimCharge",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_devastingcharge.png",
+      "iconName": "hecarim_devastingcharge.png"
+    },
+    {
+      "spellName": "HecarimPassive",
+      "iconAsset": "cache/game/15.1/champion/Hecarim/abilities/hecarim_passive.png",
+      "iconName": "hecarim_passive.png",
+      "isPassive": true
+    }
+  ]
+}

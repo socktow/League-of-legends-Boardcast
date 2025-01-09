@@ -1,0 +1,72 @@
+{
+  "id": 104,
+  "alias": "Graves",
+  "name": "Graves",
+  "attackSpeed": 0.475,
+  "splashCenteredImg": "cache/game/15.1/champion/Graves/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Graves/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Graves/loading.png",
+  "squareImg": "cache/game/15.1/champion/Graves/square.png",
+  "spells": [
+    {
+      "spellName": "GravesQLineSpell",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesq.png",
+      "iconName": "gravesq.png"
+    },
+    {
+      "spellName": "GravesQChargeUp2",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesbuckshot.png",
+      "iconName": "gravesbuckshot.png"
+    },
+    {
+      "spellName": "GravesQChargeUpDummy",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesbuckshot.png",
+      "iconName": "gravesbuckshot.png"
+    },
+    {
+      "spellName": "GravesQPress1",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesbuckshot.png",
+      "iconName": "gravesbuckshot.png"
+    },
+    {
+      "spellName": "GravesQPress2",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesquickdraw.png",
+      "iconName": "gravesquickdraw.png"
+    },
+    {
+      "spellName": "GravesQZoneSpell",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesbuckshot.png",
+      "iconName": "gravesbuckshot.png"
+    },
+    {
+      "spellName": "GravesSmokeGrenade",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesw.png",
+      "iconName": "gravesw.png"
+    },
+    {
+      "spellName": "GravesMove",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravese.png",
+      "iconName": "gravese.png"
+    },
+    {
+      "spellName": "GravesChargeShot",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesr.png",
+      "iconName": "gravesr.png"
+    },
+    {
+      "spellName": "GravesChargeShotShot",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/graveshighnoon.png",
+      "iconName": "graveshighnoon.png"
+    },
+    {
+      "spellName": "GravesChargeShotXplode",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/graveshighnoon.png",
+      "iconName": "graveshighnoon.png"
+    },
+    {
+      "spellName": "GravesPassive",
+      "iconAsset": "cache/game/15.1/champion/Graves/abilities/gravesp.png",
+      "iconName": "gravesp.png"
+    }
+  ]
+}

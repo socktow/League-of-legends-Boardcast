@@ -1,0 +1,74 @@
+{
+  "id": 72,
+  "alias": "Skarner",
+  "name": "Skarner",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Skarner/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Skarner/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Skarner/loading.png",
+  "squareImg": "cache/game/15.1/champion/Skarner/square.png",
+  "spells": [
+    {
+      "spellName": "SkarnerQRockThrow",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_q_throw.png",
+      "iconName": "skarner_q_throw.png"
+    },
+    {
+      "spellName": "SkarnerQ",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_q.png",
+      "iconName": "skarner_q.png"
+    },
+    {
+      "spellName": "SkarnerWShield",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_w.png",
+      "iconName": "skarner_w.png"
+    },
+    {
+      "spellName": "SkarnerW",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_w.png",
+      "iconName": "skarner_w.png"
+    },
+    {
+      "spellName": "SkarnerECancel",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_charge_cancel.png",
+      "iconName": "skarner_charge_cancel.png"
+    },
+    {
+      "spellName": "SkarnerEStun",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_e.png",
+      "iconName": "skarner_e.png"
+    },
+    {
+      "spellName": "SkarnerEGrabbed",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_e.png",
+      "iconName": "skarner_e.png"
+    },
+    {
+      "spellName": "SkarnerE",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_e.png",
+      "iconName": "skarner_e.png"
+    },
+    {
+      "spellName": "SkarnerR",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_r.png",
+      "iconName": "skarner_r.png"
+    },
+    {
+      "spellName": "SkarnerRImpale",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_r.png",
+      "iconName": "skarner_r.png"
+    },
+    {
+      "spellName": "SkarnerPassive",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_passive.png",
+      "iconName": "skarner_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "SkarnerPassiveDot",
+      "iconAsset": "cache/game/15.1/champion/Skarner/abilities/skarner_passive.png",
+      "iconName": "skarner_passive.png",
+      "isPassive": true
+    }
+  ]
+}

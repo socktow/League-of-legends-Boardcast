@@ -1,0 +1,38 @@
+{
+  "id": 38,
+  "alias": "Kassadin",
+  "name": "Kassadin",
+  "attackSpeed": 0.64,
+  "splashCenteredImg": "cache/game/15.1/champion/Kassadin/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Kassadin/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Kassadin/loading.png",
+  "squareImg": "cache/game/15.1/champion/Kassadin/square.png",
+  "spells": [
+    {
+      "spellName": "NullLance",
+      "iconAsset": "cache/game/15.1/champion/Kassadin/abilities/kassadin_q.png",
+      "iconName": "kassadin_q.png"
+    },
+    {
+      "spellName": "NetherBlade",
+      "iconAsset": "cache/game/15.1/champion/Kassadin/abilities/kassadin_w.png",
+      "iconName": "kassadin_w.png"
+    },
+    {
+      "spellName": "ForcePulse",
+      "iconAsset": "cache/game/15.1/champion/Kassadin/abilities/kassadin_e.png",
+      "iconName": "kassadin_e.png"
+    },
+    {
+      "spellName": "RiftWalk",
+      "iconAsset": "cache/game/15.1/champion/Kassadin/abilities/kassadin_r.png",
+      "iconName": "kassadin_r.png"
+    },
+    {
+      "spellName": "VoidStone",
+      "iconAsset": "cache/game/15.1/champion/Kassadin/abilities/kassadin_passive.png",
+      "iconName": "kassadin_passive.png",
+      "isPassive": true
+    }
+  ]
+}

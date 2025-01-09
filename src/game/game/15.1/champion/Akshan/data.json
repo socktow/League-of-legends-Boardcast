@@ -1,0 +1,64 @@
+{
+  "id": 166,
+  "alias": "Akshan",
+  "name": "Akshan",
+  "attackSpeed": 0.638,
+  "splashCenteredImg": "cache/game/15.1/champion/Akshan/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Akshan/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Akshan/loading.png",
+  "squareImg": "cache/game/15.1/champion/Akshan/square.png",
+  "spells": [
+    {
+      "spellName": "AkshanQ",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_q.png",
+      "iconName": "akshan_q.png"
+    },
+    {
+      "spellName": "AkshanW",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_w.png",
+      "iconName": "akshan_w.png"
+    },
+    {
+      "spellName": "AkshanE",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_e.png",
+      "iconName": "akshan_e.png"
+    },
+    {
+      "spellName": "AkshanE2",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_e2.png",
+      "iconName": "akshan_e2.png"
+    },
+    {
+      "spellName": "AkshanE3",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_e2.png",
+      "iconName": "akshan_e2.png"
+    },
+    {
+      "spellName": "AkshanR",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_r.png",
+      "iconName": "akshan_r.png"
+    },
+    {
+      "spellName": "AkshanRCancel",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_r.png",
+      "iconName": "akshan_r.png"
+    },
+    {
+      "spellName": "AkshanRMissile",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_r.png",
+      "iconName": "akshan_r.png"
+    },
+    {
+      "spellName": "AkshanPassive",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_p.png",
+      "iconName": "akshan_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "AkshanPassiveShield",
+      "iconAsset": "cache/game/15.1/champion/Akshan/abilities/akshan_p.png",
+      "iconName": "akshan_p.png",
+      "isPassive": true
+    }
+  ]
+}

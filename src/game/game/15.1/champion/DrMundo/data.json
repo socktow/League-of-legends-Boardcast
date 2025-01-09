@@ -1,0 +1,54 @@
+{
+  "id": 36,
+  "alias": "DrMundo",
+  "name": "Dr. Mundo",
+  "attackSpeed": 0.67,
+  "splashCenteredImg": "cache/game/15.1/champion/DrMundo/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/DrMundo/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/DrMundo/loading.png",
+  "squareImg": "cache/game/15.1/champion/DrMundo/square.png",
+  "spells": [
+    {
+      "spellName": "DrMundoQ",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_q.png",
+      "iconName": "drmundo_q.png"
+    },
+    {
+      "spellName": "DrMundoQSlow",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_q.png",
+      "iconName": "drmundo_q.png"
+    },
+    {
+      "spellName": "DrMundoW",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_w.png",
+      "iconName": "drmundo_w.png"
+    },
+    {
+      "spellName": "DrMundoWRecast",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_w2.png",
+      "iconName": "drmundo_w2.png"
+    },
+    {
+      "spellName": "DrMundoE",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_e.png",
+      "iconName": "drmundo_e.png"
+    },
+    {
+      "spellName": "DrMundoR",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_r.png",
+      "iconName": "drmundo_r.png"
+    },
+    {
+      "spellName": "DrMundoP",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_p.png",
+      "iconName": "drmundo_p.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "DrMundoPImmunity",
+      "iconAsset": "cache/game/15.1/champion/DrMundo/abilities/drmundo_p.png",
+      "iconName": "drmundo_p.png",
+      "isPassive": true
+    }
+  ]
+}

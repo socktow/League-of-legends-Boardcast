@@ -1,0 +1,59 @@
+{
+  "id": 268,
+  "alias": "Azir",
+  "name": "Azir",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Azir/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Azir/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Azir/loading.png",
+  "squareImg": "cache/game/15.1/champion/Azir/square.png",
+  "spells": [
+    {
+      "spellName": "AzirQWrapper",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_q.png",
+      "iconName": "azir_q.png"
+    },
+    {
+      "spellName": "AzirQ",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_q.png",
+      "iconName": "azir_q.png"
+    },
+    {
+      "spellName": "AzirW",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_w.png",
+      "iconName": "azir_w.png"
+    },
+    {
+      "spellName": "AzirWSpawnSoldier",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_w.png",
+      "iconName": "azir_w.png"
+    },
+    {
+      "spellName": "AzirEWrapper",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_e.png",
+      "iconName": "azir_e.png"
+    },
+    {
+      "spellName": "AzirE",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_e.png",
+      "iconName": "azir_e.png"
+    },
+    {
+      "spellName": "AzirR",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_r.png",
+      "iconName": "azir_r.png"
+    },
+    {
+      "spellName": "AzirPassive",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_passive.png",
+      "iconName": "azir_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "AzirTowerClickChannel",
+      "iconAsset": "cache/game/15.1/champion/Azir/abilities/azir_passive.png",
+      "iconName": "azir_passive.png",
+      "isPassive": true
+    }
+  ]
+}

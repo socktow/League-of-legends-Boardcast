@@ -1,0 +1,53 @@
+{
+  "id": 246,
+  "alias": "Qiyana",
+  "name": "Qiyana",
+  "attackSpeed": 0.688,
+  "splashCenteredImg": "cache/game/15.1/champion/Qiyana/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Qiyana/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Qiyana/loading.png",
+  "squareImg": "cache/game/15.1/champion/Qiyana/square.png",
+  "spells": [
+    {
+      "spellName": "QiyanaQ",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_q2_red.png",
+      "iconName": "qiyana_q2_red.png"
+    },
+    {
+      "spellName": "QiyanaQ_Grass",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_q2_red.png",
+      "iconName": "qiyana_q2_red.png"
+    },
+    {
+      "spellName": "QiyanaQ_Water",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_q2_red.png",
+      "iconName": "qiyana_q2_red.png"
+    },
+    {
+      "spellName": "QiyanaQ_Rock",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_q2_red.png",
+      "iconName": "qiyana_q2_red.png"
+    },
+    {
+      "spellName": "QiyanaW",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_w.png",
+      "iconName": "qiyana_w.png"
+    },
+    {
+      "spellName": "QiyanaR",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_r.png",
+      "iconName": "qiyana_r.png"
+    },
+    {
+      "spellName": "QiyanaE",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_e.png",
+      "iconName": "qiyana_e.png"
+    },
+    {
+      "spellName": "QiyanaPassive",
+      "iconAsset": "cache/game/15.1/champion/Qiyana/abilities/qiyana_passive.png",
+      "iconName": "qiyana_passive.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 80,
+  "alias": "Pantheon",
+  "name": "Pantheon",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Pantheon/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Pantheon/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Pantheon/loading.png",
+  "squareImg": "cache/game/15.1/champion/Pantheon/square.png",
+  "spells": [
+    {
+      "spellName": "PantheonR",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_r.png",
+      "iconName": "pantheon_r.png"
+    },
+    {
+      "spellName": "PantheonRSlow",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_r.png",
+      "iconName": "pantheon_r.png"
+    },
+    {
+      "spellName": "PantheonQ",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_q1.png",
+      "iconName": "pantheon_q1.png"
+    },
+    {
+      "spellName": "PantheonQSlow",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_q2.png",
+      "iconName": "pantheon_q2.png"
+    },
+    {
+      "spellName": "PantheonQTap",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_q2.png",
+      "iconName": "pantheon_q2.png"
+    },
+    {
+      "spellName": "PantheonW",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_w1.png",
+      "iconName": "pantheon_w1.png"
+    },
+    {
+      "spellName": "PantheonWEmpowerment",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_w2.png",
+      "iconName": "pantheon_w2.png"
+    },
+    {
+      "spellName": "PantheonE",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_e1.png",
+      "iconName": "pantheon_e1.png"
+    },
+    {
+      "spellName": "PantheonE2",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_e1.png",
+      "iconName": "pantheon_e1.png"
+    },
+    {
+      "spellName": "PantheonEShieldSlam",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_q2.png",
+      "iconName": "pantheon_q2.png"
+    },
+    {
+      "spellName": "PantheonESpeed",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_e2.png",
+      "iconName": "pantheon_e2.png"
+    },
+    {
+      "spellName": "PantheonPassive",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_passive.png",
+      "iconName": "pantheon_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "PantheonPassiveCounter",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_passive.png",
+      "iconName": "pantheon_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "PantheonPassiveReady",
+      "iconAsset": "cache/game/15.1/champion/Pantheon/abilities/pantheon_passive.png",
+      "iconName": "pantheon_passive.png",
+      "isPassive": true
+    }
+  ]
+}

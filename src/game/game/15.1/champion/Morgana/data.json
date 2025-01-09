@@ -1,0 +1,38 @@
+{
+  "id": 25,
+  "alias": "Morgana",
+  "name": "Morgana",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Morgana/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Morgana/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Morgana/loading.png",
+  "squareImg": "cache/game/15.1/champion/Morgana/square.png",
+  "spells": [
+    {
+      "spellName": "MorganaQ",
+      "iconAsset": "cache/game/15.1/champion/Morgana/abilities/fallenangel_darkbinding.png",
+      "iconName": "fallenangel_darkbinding.png"
+    },
+    {
+      "spellName": "MorganaW",
+      "iconAsset": "cache/game/15.1/champion/Morgana/abilities/fallenangel_tormentedsoil.png",
+      "iconName": "fallenangel_tormentedsoil.png"
+    },
+    {
+      "spellName": "MorganaE",
+      "iconAsset": "cache/game/15.1/champion/Morgana/abilities/fallenangel_blackshield.png",
+      "iconName": "fallenangel_blackshield.png"
+    },
+    {
+      "spellName": "MorganaR",
+      "iconAsset": "cache/game/15.1/champion/Morgana/abilities/fallenangel_purgatory.png",
+      "iconName": "fallenangel_purgatory.png"
+    },
+    {
+      "spellName": "MorganaPassive",
+      "iconAsset": "cache/game/15.1/champion/Morgana/abilities/fallenangel_empathize.png",
+      "iconName": "fallenangel_empathize.png",
+      "isPassive": true
+    }
+  ]
+}

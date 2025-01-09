@@ -1,0 +1,74 @@
+{
+  "id": 876,
+  "alias": "Lillia",
+  "name": "Lillia",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Lillia/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Lillia/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Lillia/loading.png",
+  "squareImg": "cache/game/15.1/champion/Lillia/square.png",
+  "spells": [
+    {
+      "spellName": "LilliaQ",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_q.png",
+      "iconName": "lillia_icon_q.png"
+    },
+    {
+      "spellName": "LilliaQSpellPassive",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/evelynn_e_passive.png",
+      "iconName": "evelynn_e_passive.png"
+    },
+    {
+      "spellName": "LilliaPranceStack",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_buff_speedup.png",
+      "iconName": "lillia_icon_buff_speedup.png"
+    },
+    {
+      "spellName": "LilliaW",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_w.png",
+      "iconName": "lillia_icon_w.png"
+    },
+    {
+      "spellName": "LilliaE",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_e.png",
+      "iconName": "lillia_icon_e.png"
+    },
+    {
+      "spellName": "LilliaERollingMissile",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/mordekaiserq2.png",
+      "iconName": "mordekaiserq2.png"
+    },
+    {
+      "spellName": "LilliaERollingMissileShort",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/mordekaiserq2.png",
+      "iconName": "mordekaiserq2.png"
+    },
+    {
+      "spellName": "LilliaESpellPassive",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/evelynn_e_passive.png",
+      "iconName": "evelynn_e_passive.png"
+    },
+    {
+      "spellName": "LilliaR",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_r.png",
+      "iconName": "lillia_icon_r.png"
+    },
+    {
+      "spellName": "LilliaRSleep",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_buff_sleep.png",
+      "iconName": "lillia_icon_buff_sleep.png"
+    },
+    {
+      "spellName": "LilliaP",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_passive.png",
+      "iconName": "lillia_icon_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "LilliaPDoT",
+      "iconAsset": "cache/game/15.1/champion/Lillia/abilities/lillia_icon_passive.png",
+      "iconName": "lillia_icon_passive.png",
+      "isPassive": true
+    }
+  ]
+}

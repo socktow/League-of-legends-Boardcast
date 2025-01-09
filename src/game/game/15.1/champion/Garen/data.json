@@ -1,0 +1,43 @@
+{
+  "id": 86,
+  "alias": "Garen",
+  "name": "Garen",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Garen/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Garen/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Garen/loading.png",
+  "squareImg": "cache/game/15.1/champion/Garen/square.png",
+  "spells": [
+    {
+      "spellName": "GarenQ",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_q.png",
+      "iconName": "garen_q.png"
+    },
+    {
+      "spellName": "GarenW",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_w.png",
+      "iconName": "garen_w.png"
+    },
+    {
+      "spellName": "GarenE",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_e1.png",
+      "iconName": "garen_e1.png"
+    },
+    {
+      "spellName": "GarenECancel",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_e2.png",
+      "iconName": "garen_e2.png"
+    },
+    {
+      "spellName": "GarenR",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_r.png",
+      "iconName": "garen_r.png"
+    },
+    {
+      "spellName": "GarenPassive",
+      "iconAsset": "cache/game/15.1/champion/Garen/abilities/garen_passive.png",
+      "iconName": "garen_passive.png",
+      "isPassive": true
+    }
+  ]
+}

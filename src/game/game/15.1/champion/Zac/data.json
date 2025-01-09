@@ -1,0 +1,43 @@
+{
+  "id": 154,
+  "alias": "Zac",
+  "name": "Zac",
+  "attackSpeed": 0.736,
+  "splashCenteredImg": "cache/game/15.1/champion/Zac/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Zac/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Zac/loading.png",
+  "squareImg": "cache/game/15.1/champion/Zac/square.png",
+  "spells": [
+    {
+      "spellName": "ZacR",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zacr.png",
+      "iconName": "zacr.png"
+    },
+    {
+      "spellName": "ZacQ",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zacq.png",
+      "iconName": "zacq.png"
+    },
+    {
+      "spellName": "ZacQRecast",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zacq.png",
+      "iconName": "zacq.png"
+    },
+    {
+      "spellName": "ZacW",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zacw.png",
+      "iconName": "zacw.png"
+    },
+    {
+      "spellName": "ZacE",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zace.png",
+      "iconName": "zace.png"
+    },
+    {
+      "spellName": "ZacPassiveChunkDrop",
+      "iconAsset": "cache/game/15.1/champion/Zac/abilities/zacpassive.png",
+      "iconName": "zacpassive.png",
+      "isPassive": true
+    }
+  ]
+}

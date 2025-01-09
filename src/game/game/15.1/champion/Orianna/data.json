@@ -1,0 +1,42 @@
+{
+  "id": 61,
+  "alias": "Orianna",
+  "name": "Orianna",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Orianna/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Orianna/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Orianna/loading.png",
+  "squareImg": "cache/game/15.1/champion/Orianna/square.png",
+  "spells": [
+    {
+      "spellName": "OrianaIzunaCommand",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannaq.png",
+      "iconName": "oriannaq.png"
+    },
+    {
+      "spellName": "OrianaIzuna",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannacommandattack.png",
+      "iconName": "oriannacommandattack.png"
+    },
+    {
+      "spellName": "OrianaDissonanceCommand",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannaw.png",
+      "iconName": "oriannaw.png"
+    },
+    {
+      "spellName": "OrianaRedactCommand",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannae.png",
+      "iconName": "oriannae.png"
+    },
+    {
+      "spellName": "OrianaDetonateCommand",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannar.png",
+      "iconName": "oriannar.png"
+    },
+    {
+      "spellName": "OriannaP",
+      "iconAsset": "cache/game/15.1/champion/Orianna/abilities/oriannap.png",
+      "iconName": "oriannap.png"
+    }
+  ]
+}

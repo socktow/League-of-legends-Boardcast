@@ -1,0 +1,53 @@
+{
+  "id": 3,
+  "alias": "Galio",
+  "name": "Galio",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Galio/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Galio/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Galio/loading.png",
+  "squareImg": "cache/game/15.1/champion/Galio/square.png",
+  "spells": [
+    {
+      "spellName": "GalioQ",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_q.png",
+      "iconName": "galio_q.png"
+    },
+    {
+      "spellName": "GalioQMissile",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_q.png",
+      "iconName": "galio_q.png"
+    },
+    {
+      "spellName": "GalioQMissileR",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_q.png",
+      "iconName": "galio_q.png"
+    },
+    {
+      "spellName": "GalioW",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_w.png",
+      "iconName": "galio_w.png"
+    },
+    {
+      "spellName": "GalioE",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_e.png",
+      "iconName": "galio_e.png"
+    },
+    {
+      "spellName": "GalioR",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_r.png",
+      "iconName": "galio_r.png"
+    },
+    {
+      "spellName": "GalioRSpellPassive",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_r.png",
+      "iconName": "galio_r.png"
+    },
+    {
+      "spellName": "GalioPassive",
+      "iconAsset": "cache/game/15.1/champion/Galio/abilities/galio_passive.png",
+      "iconName": "galio_passive.png",
+      "isPassive": true
+    }
+  ]
+}

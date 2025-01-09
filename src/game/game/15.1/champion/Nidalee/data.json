@@ -1,0 +1,50 @@
+{
+  "id": 76,
+  "alias": "Nidalee",
+  "name": "Nidalee",
+  "attackSpeed": 0.638,
+  "splashCenteredImg": "cache/game/15.1/champion/Nidalee/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Nidalee/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Nidalee/loading.png",
+  "squareImg": "cache/game/15.1/champion/Nidalee/square.png",
+  "spells": [
+    {
+      "spellName": "AspectOfTheCougar",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_r1.png",
+      "iconName": "nidalee_r1.png"
+    },
+    {
+      "spellName": "JavelinToss",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_q1.png",
+      "iconName": "nidalee_q1.png"
+    },
+    {
+      "spellName": "Bushwhack",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_w1.png",
+      "iconName": "nidalee_w1.png"
+    },
+    {
+      "spellName": "PrimalSurge",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_e1.png",
+      "iconName": "nidalee_e1.png"
+    },
+    {
+      "spellName": "NidaleePassiveHunt",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_passive.png",
+      "iconName": "nidalee_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "NidaleePassiveHunted",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_passive.png",
+      "iconName": "nidalee_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "NidaleePassiveHunting",
+      "iconAsset": "cache/game/15.1/champion/Nidalee/abilities/nidalee_passive.png",
+      "iconName": "nidalee_passive.png",
+      "isPassive": true
+    }
+  ]
+}

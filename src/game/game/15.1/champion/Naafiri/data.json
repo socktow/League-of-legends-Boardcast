@@ -1,0 +1,48 @@
+{
+  "id": 950,
+  "alias": "Naafiri",
+  "name": "Naafiri",
+  "attackSpeed": 0.663,
+  "splashCenteredImg": "cache/game/15.1/champion/Naafiri/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Naafiri/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Naafiri/loading.png",
+  "squareImg": "cache/game/15.1/champion/Naafiri/square.png",
+  "spells": [
+    {
+      "spellName": "NaafiriQ",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_q.png",
+      "iconName": "icons_naafiri_q.png"
+    },
+    {
+      "spellName": "NaafiriQRecast",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_q.png",
+      "iconName": "icons_naafiri_q.png"
+    },
+    {
+      "spellName": "NaafiriQBleed",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_q.png",
+      "iconName": "icons_naafiri_q.png"
+    },
+    {
+      "spellName": "NaafiriW",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_w.png",
+      "iconName": "icons_naafiri_w.png"
+    },
+    {
+      "spellName": "NaafiriE",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_e.png",
+      "iconName": "icons_naafiri_e.png"
+    },
+    {
+      "spellName": "NaafiriR",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_r.png",
+      "iconName": "icons_naafiri_r.png"
+    },
+    {
+      "spellName": "NaafiriP",
+      "iconAsset": "cache/game/15.1/champion/Naafiri/abilities/icons_naafiri_p.png",
+      "iconName": "icons_naafiri_p.png",
+      "isPassive": true
+    }
+  ]
+}

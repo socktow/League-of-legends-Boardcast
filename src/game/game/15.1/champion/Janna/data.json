@@ -1,0 +1,42 @@
+{
+  "id": 40,
+  "alias": "Janna",
+  "name": "Janna",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Janna/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Janna/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Janna/loading.png",
+  "squareImg": "cache/game/15.1/champion/Janna/square.png",
+  "spells": [
+    {
+      "spellName": "HowlingGale",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/jannaq.png",
+      "iconName": "jannaq.png"
+    },
+    {
+      "spellName": "HowlingGale_URF",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/janna_howlinggale.png",
+      "iconName": "janna_howlinggale.png"
+    },
+    {
+      "spellName": "SowTheWind",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/jannaw.png",
+      "iconName": "jannaw.png"
+    },
+    {
+      "spellName": "EyeOfTheStorm",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/jannae.png",
+      "iconName": "jannae.png"
+    },
+    {
+      "spellName": "ReapTheWhirlwind",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/jannar.png",
+      "iconName": "jannar.png"
+    },
+    {
+      "spellName": "TailwindSelf",
+      "iconAsset": "cache/game/15.1/champion/Janna/abilities/jannap.png",
+      "iconName": "jannap.png"
+    }
+  ]
+}

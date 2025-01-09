@@ -1,0 +1,49 @@
+{
+  "id": 56,
+  "alias": "Nocturne",
+  "name": "Nocturne",
+  "attackSpeed": 0.721,
+  "splashCenteredImg": "cache/game/15.1/champion/Nocturne/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Nocturne/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Nocturne/loading.png",
+  "squareImg": "cache/game/15.1/champion/Nocturne/square.png",
+  "spells": [
+    {
+      "spellName": "NocturneParanoia",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_paranoia.png",
+      "iconName": "nocturne_paranoia.png"
+    },
+    {
+      "spellName": "NocturneParanoia2",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_paranoia.png",
+      "iconName": "nocturne_paranoia.png"
+    },
+    {
+      "spellName": "NocturneDuskbringer",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_duskbringer.png",
+      "iconName": "nocturne_duskbringer.png"
+    },
+    {
+      "spellName": "NocturneShroudofDarkness",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_shroudofdarkness.png",
+      "iconName": "nocturne_shroudofdarkness.png"
+    },
+    {
+      "spellName": "NocturneUnspeakableHorror",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_unspeakablehorror.png",
+      "iconName": "nocturne_unspeakablehorror.png"
+    },
+    {
+      "spellName": "NocturneP",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_umbrablades.png",
+      "iconName": "nocturne_umbrablades.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "NocturneUmbraBladesAttack",
+      "iconAsset": "cache/game/15.1/champion/Nocturne/abilities/nocturne_umbrablades.png",
+      "iconName": "nocturne_umbrablades.png",
+      "isPassive": true
+    }
+  ]
+}

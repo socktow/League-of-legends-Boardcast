@@ -1,0 +1,43 @@
+{
+  "id": 234,
+  "alias": "Viego",
+  "name": "Viego",
+  "attackSpeed": 0.658,
+  "splashCenteredImg": "cache/game/15.1/champion/Viego/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Viego/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Viego/loading.png",
+  "squareImg": "cache/game/15.1/champion/Viego/square.png",
+  "spells": [
+    {
+      "spellName": "ViegoQ",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_q.png",
+      "iconName": "viego_q.png"
+    },
+    {
+      "spellName": "ViegoW",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_w.png",
+      "iconName": "viego_w.png"
+    },
+    {
+      "spellName": "ViegoWMis",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_w.png",
+      "iconName": "viego_w.png"
+    },
+    {
+      "spellName": "ViegoE",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_e.png",
+      "iconName": "viego_e.png"
+    },
+    {
+      "spellName": "ViegoR",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_r.png",
+      "iconName": "viego_r.png"
+    },
+    {
+      "spellName": "ViegoPassive",
+      "iconAsset": "cache/game/15.1/champion/Viego/abilities/viego_passive.png",
+      "iconName": "viego_passive.png",
+      "isPassive": true
+    }
+  ]
+}

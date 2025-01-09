@@ -1,0 +1,42 @@
+{
+  "id": 81,
+  "alias": "Ezreal",
+  "name": "Ezreal",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Ezreal/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Ezreal/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Ezreal/loading.png",
+  "squareImg": "cache/game/15.1/champion/Ezreal/square.png",
+  "spells": [
+    {
+      "spellName": "EzrealQ",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_q.png",
+      "iconName": "ezreal_q.png"
+    },
+    {
+      "spellName": "EzrealW",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_w.png",
+      "iconName": "ezreal_w.png"
+    },
+    {
+      "spellName": "EzrealE",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_e.png",
+      "iconName": "ezreal_e.png"
+    },
+    {
+      "spellName": "EzrealR",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_r.png",
+      "iconName": "ezreal_r.png"
+    },
+    {
+      "spellName": "EzrealPassive",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_passive.png",
+      "iconName": "ezreal_passive.png"
+    },
+    {
+      "spellName": "EzrealPassiveStacks",
+      "iconAsset": "cache/game/15.1/champion/Ezreal/abilities/ezreal_passive.png",
+      "iconName": "ezreal_passive.png"
+    }
+  ]
+}

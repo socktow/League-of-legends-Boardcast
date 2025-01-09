@@ -1,0 +1,38 @@
+{
+  "id": 145,
+  "alias": "Kaisa",
+  "name": "Kai\u0027Sa",
+  "attackSpeed": 0.644,
+  "splashCenteredImg": "cache/game/15.1/champion/Kaisa/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Kaisa/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Kaisa/loading.png",
+  "squareImg": "cache/game/15.1/champion/Kaisa/square.png",
+  "spells": [
+    {
+      "spellName": "KaisaQ",
+      "iconAsset": "cache/game/15.1/champion/Kaisa/abilities/kaisa_q.png",
+      "iconName": "kaisa_q.png"
+    },
+    {
+      "spellName": "KaisaW",
+      "iconAsset": "cache/game/15.1/champion/Kaisa/abilities/kaisa_w.png",
+      "iconName": "kaisa_w.png"
+    },
+    {
+      "spellName": "KaisaE",
+      "iconAsset": "cache/game/15.1/champion/Kaisa/abilities/kaisa_e.png",
+      "iconName": "kaisa_e.png"
+    },
+    {
+      "spellName": "KaisaR",
+      "iconAsset": "cache/game/15.1/champion/Kaisa/abilities/kaisa_r.png",
+      "iconName": "kaisa_r.png"
+    },
+    {
+      "spellName": "KaisaPassive",
+      "iconAsset": "cache/game/15.1/champion/Kaisa/abilities/kaisa_passive.png",
+      "iconName": "kaisa_passive.png",
+      "isPassive": true
+    }
+  ]
+}

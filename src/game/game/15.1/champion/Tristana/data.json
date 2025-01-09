@@ -1,0 +1,38 @@
+{
+  "id": 18,
+  "alias": "Tristana",
+  "name": "Tristana",
+  "attackSpeed": 0.656,
+  "splashCenteredImg": "cache/game/15.1/champion/Tristana/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Tristana/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Tristana/loading.png",
+  "squareImg": "cache/game/15.1/champion/Tristana/square.png",
+  "spells": [
+    {
+      "spellName": "TristanaQ",
+      "iconAsset": "cache/game/15.1/champion/Tristana/abilities/tristana_q.png",
+      "iconName": "tristana_q.png"
+    },
+    {
+      "spellName": "TristanaW",
+      "iconAsset": "cache/game/15.1/champion/Tristana/abilities/tristana_w.png",
+      "iconName": "tristana_w.png"
+    },
+    {
+      "spellName": "TristanaE",
+      "iconAsset": "cache/game/15.1/champion/Tristana/abilities/tristana_e.png",
+      "iconName": "tristana_e.png"
+    },
+    {
+      "spellName": "TristanaR",
+      "iconAsset": "cache/game/15.1/champion/Tristana/abilities/tristana_r.png",
+      "iconName": "tristana_r.png"
+    },
+    {
+      "spellName": "TristanaPassive",
+      "iconAsset": "cache/game/15.1/champion/Tristana/abilities/tristana_passive.png",
+      "iconName": "tristana_passive.png",
+      "isPassive": true
+    }
+  ]
+}

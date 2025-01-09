@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "alias": "Olaf",
+  "name": "Olaf",
+  "attackSpeed": 0.694,
+  "splashCenteredImg": "cache/game/15.1/champion/Olaf/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Olaf/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Olaf/loading.png",
+  "squareImg": "cache/game/15.1/champion/Olaf/square.png",
+  "spells": [
+    {
+      "spellName": "OlafAxeThrowCast",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafq.png",
+      "iconName": "olafq.png"
+    },
+    {
+      "spellName": "OlafAxeThrow",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafq.png",
+      "iconName": "olafq.png"
+    },
+    {
+      "spellName": "OlafAxeThrowDamage",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafq.png",
+      "iconName": "olafq.png"
+    },
+    {
+      "spellName": "OlafFrenziedStrikes",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafw.png",
+      "iconName": "olafw.png"
+    },
+    {
+      "spellName": "OlafRecklessStrike",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafe.png",
+      "iconName": "olafe.png"
+    },
+    {
+      "spellName": "OlafRagnarok",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafr.png",
+      "iconName": "olafr.png"
+    },
+    {
+      "spellName": "OlafRagnarokPassiveBuff",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafr.png",
+      "iconName": "olafr.png"
+    },
+    {
+      "spellName": "OlafBerzerkerRage",
+      "iconAsset": "cache/game/15.1/champion/Olaf/abilities/olafp.png",
+      "iconName": "olafp.png"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 51,
+  "alias": "Caitlyn",
+  "name": "Caitlyn",
+  "attackSpeed": 0.681,
+  "splashCenteredImg": "cache/game/15.1/champion/Caitlyn/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Caitlyn/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Caitlyn/loading.png",
+  "squareImg": "cache/game/15.1/champion/Caitlyn/square.png",
+  "spells": [
+    {
+      "spellName": "CaitlynQ",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynq.png",
+      "iconName": "caitlynq.png"
+    },
+    {
+      "spellName": "CaitlynQ2",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynq.png",
+      "iconName": "caitlynq.png"
+    },
+    {
+      "spellName": "CaitlynW",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynw.png",
+      "iconName": "caitlynw.png"
+    },
+    {
+      "spellName": "CaitlynE",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlyne.png",
+      "iconName": "caitlyne.png"
+    },
+    {
+      "spellName": "CaitlynEMissile",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlyne.png",
+      "iconName": "caitlyne.png"
+    },
+    {
+      "spellName": "CaitlynR",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynr.png",
+      "iconName": "caitlynr.png"
+    },
+    {
+      "spellName": "CaitlynRMissile",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynr.png",
+      "iconName": "caitlynr.png"
+    },
+    {
+      "spellName": "CaitlynPassive",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynp.png",
+      "iconName": "caitlynp.png"
+    },
+    {
+      "spellName": "CaitlynPassiveMissile",
+      "iconAsset": "cache/game/15.1/champion/Caitlyn/abilities/caitlynp.png",
+      "iconName": "caitlynp.png"
+    }
+  ]
+}

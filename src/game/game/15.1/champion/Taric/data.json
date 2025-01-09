@@ -1,0 +1,50 @@
+{
+  "id": 44,
+  "alias": "Taric",
+  "name": "Taric",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Taric/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Taric/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Taric/loading.png",
+  "squareImg": "cache/game/15.1/champion/Taric/square.png",
+  "spells": [
+    {
+      "spellName": "TaricQ",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_q.png",
+      "iconName": "taric_q.png"
+    },
+    {
+      "spellName": "TaricW",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_w.png",
+      "iconName": "taric_w.png"
+    },
+    {
+      "spellName": "TaricE",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_e.png",
+      "iconName": "taric_e.png"
+    },
+    {
+      "spellName": "TaricR",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_r.png",
+      "iconName": "taric_r.png"
+    },
+    {
+      "spellName": "TaricPassive",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_passive.png",
+      "iconName": "taric_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "TaricPassiveAttack",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_passive.png",
+      "iconName": "taric_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "TaricPassiveAttack2",
+      "iconAsset": "cache/game/15.1/champion/Taric/abilities/taric_passive.png",
+      "iconName": "taric_passive.png",
+      "isPassive": true
+    }
+  ]
+}

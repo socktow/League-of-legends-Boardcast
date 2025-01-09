@@ -1,0 +1,48 @@
+{
+  "id": 147,
+  "alias": "Seraphine",
+  "name": "Seraphine",
+  "attackSpeed": 0.669,
+  "splashCenteredImg": "cache/game/15.1/champion/Seraphine/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Seraphine/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Seraphine/loading.png",
+  "squareImg": "cache/game/15.1/champion/Seraphine/square.png",
+  "spells": [
+    {
+      "spellName": "SeraphineQ",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_q1.png",
+      "iconName": "seraphine_q1.png"
+    },
+    {
+      "spellName": "SeraphineW",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_w1.png",
+      "iconName": "seraphine_w1.png"
+    },
+    {
+      "spellName": "SeraphineE",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_e1.png",
+      "iconName": "seraphine_e1.png"
+    },
+    {
+      "spellName": "SeraphineERoot",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_e2.png",
+      "iconName": "seraphine_e2.png"
+    },
+    {
+      "spellName": "SeraphineESlow",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_e1.png",
+      "iconName": "seraphine_e1.png"
+    },
+    {
+      "spellName": "SeraphineR",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_r.png",
+      "iconName": "seraphine_r.png"
+    },
+    {
+      "spellName": "SeraphinePassive",
+      "iconAsset": "cache/game/15.1/champion/Seraphine/abilities/seraphine_passive.png",
+      "iconName": "seraphine_passive.png",
+      "isPassive": true
+    }
+  ]
+}

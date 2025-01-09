@@ -1,0 +1,73 @@
+{
+  "id": 31,
+  "alias": "Chogath",
+  "name": "Cho\u0027Gath",
+  "attackSpeed": 0.625,
+  "splashCenteredImg": "cache/game/15.1/champion/Chogath/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Chogath/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Chogath/loading.png",
+  "squareImg": "cache/game/15.1/champion/Chogath/square.png",
+  "spells": [
+    {
+      "spellName": "Rupture",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_spikeslam.png",
+      "iconName": "greenterror_spikeslam.png"
+    },
+    {
+      "spellName": "FeralScream",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_feralscream.png",
+      "iconName": "greenterror_feralscream.png"
+    },
+    {
+      "spellName": "VorpalSpikes",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle2",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle3",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle4",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle5",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle6",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "VorpalSpikesMissle7",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_chitinousexoplates.png",
+      "iconName": "greenterror_chitinousexoplates.png"
+    },
+    {
+      "spellName": "Feast",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_feast.png",
+      "iconName": "greenterror_feast.png"
+    },
+    {
+      "spellName": "Carnivore",
+      "iconAsset": "cache/game/15.1/champion/Chogath/abilities/greenterror_tailspike.png",
+      "iconName": "greenterror_tailspike.png",
+      "isPassive": true
+    }
+  ]
+}

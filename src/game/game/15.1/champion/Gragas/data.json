@@ -1,0 +1,63 @@
+{
+  "id": 79,
+  "alias": "Gragas",
+  "name": "Gragas",
+  "attackSpeed": 0.675,
+  "splashCenteredImg": "cache/game/15.1/champion/Gragas/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Gragas/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Gragas/loading.png",
+  "squareImg": "cache/game/15.1/champion/Gragas/square.png",
+  "spells": [
+    {
+      "spellName": "GragasQ",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasbarrelroll.png",
+      "iconName": "gragasbarrelroll.png"
+    },
+    {
+      "spellName": "GragasQMissile",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasbarrelroll.png",
+      "iconName": "gragasbarrelroll.png"
+    },
+    {
+      "spellName": "GragasQSpellPassive",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasbarrelroll.png",
+      "iconName": "gragasbarrelroll.png"
+    },
+    {
+      "spellName": "GragasQToggle",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasbarrelroll.png",
+      "iconName": "gragasbarrelroll.png"
+    },
+    {
+      "spellName": "GragasW",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasdrunkenrage.png",
+      "iconName": "gragasdrunkenrage.png"
+    },
+    {
+      "spellName": "GragasWAttack",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/wolfman_severarmor.png",
+      "iconName": "wolfman_severarmor.png"
+    },
+    {
+      "spellName": "GragasE",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasbodyslam.png",
+      "iconName": "gragasbodyslam.png"
+    },
+    {
+      "spellName": "GragasR",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasexplosivecask.png",
+      "iconName": "gragasexplosivecask.png"
+    },
+    {
+      "spellName": "GragasRBoom",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragasexplosivecask.png",
+      "iconName": "gragasexplosivecask.png"
+    },
+    {
+      "spellName": "GragasPassive",
+      "iconAsset": "cache/game/15.1/champion/Gragas/abilities/gragaspassiveheal.png",
+      "iconName": "gragaspassiveheal.png",
+      "isPassive": true
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 429,
+  "alias": "Kalista",
+  "name": "Kalista",
+  "attackSpeed": 0.694,
+  "splashCenteredImg": "cache/game/15.1/champion/Kalista/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Kalista/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Kalista/loading.png",
+  "squareImg": "cache/game/15.1/champion/Kalista/square.png",
+  "spells": [
+    {
+      "spellName": "KalistaMysticShot",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_q.png",
+      "iconName": "kalista_q.png"
+    },
+    {
+      "spellName": "KalistaW",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_w.png",
+      "iconName": "kalista_w.png"
+    },
+    {
+      "spellName": "KalistaWAllyPassive",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/yorickunholycovenant.png",
+      "iconName": "yorickunholycovenant.png"
+    },
+    {
+      "spellName": "KalistaExpungeWrapper",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_e.png",
+      "iconName": "kalista_e.png"
+    },
+    {
+      "spellName": "KalistaExpunge",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_e.png",
+      "iconName": "kalista_e.png"
+    },
+    {
+      "spellName": "KalistaRx",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_r.png",
+      "iconName": "kalista_r.png"
+    },
+    {
+      "spellName": "KalistaRAlly",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_r.png",
+      "iconName": "kalista_r.png"
+    },
+    {
+      "spellName": "KalistaRAllyStun",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/minotaur_headbutt.png",
+      "iconName": "minotaur_headbutt.png"
+    },
+    {
+      "spellName": "KalistaRAllyStunBuffer",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/minotaur_headbutt.png",
+      "iconName": "minotaur_headbutt.png"
+    },
+    {
+      "spellName": "KalistaRAllyStunMarker",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/minotaur_headbutt.png",
+      "iconName": "minotaur_headbutt.png"
+    },
+    {
+      "spellName": "KalistaRMis",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/bowmaster_enchantedarrow.png",
+      "iconName": "bowmaster_enchantedarrow.png"
+    },
+    {
+      "spellName": "KalistaPassiveBuff",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/kalista_passive.png",
+      "iconName": "kalista_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "KalistaAltarOut",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "KalistaPAltarBuff",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/cryophoenix_frigidorb.png",
+      "iconName": "cryophoenix_frigidorb.png"
+    },
+    {
+      "spellName": "KalistaPAltarChannel",
+      "iconAsset": "cache/game/15.1/champion/Kalista/abilities/yeti_shatter.png",
+      "iconName": "yeti_shatter.png"
+    }
+  ]
+}

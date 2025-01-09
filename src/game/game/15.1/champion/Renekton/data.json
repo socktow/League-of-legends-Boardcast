@@ -1,0 +1,43 @@
+{
+  "id": 58,
+  "alias": "Renekton",
+  "name": "Renekton",
+  "attackSpeed": 0.665,
+  "splashCenteredImg": "cache/game/15.1/champion/Renekton/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Renekton/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Renekton/loading.png",
+  "squareImg": "cache/game/15.1/champion/Renekton/square.png",
+  "spells": [
+    {
+      "spellName": "RenektonCleave",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_q.png",
+      "iconName": "renekton_q.png"
+    },
+    {
+      "spellName": "RenektonPreExecute",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_w.png",
+      "iconName": "renekton_w.png"
+    },
+    {
+      "spellName": "RenektonSliceAndDice",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_e.png",
+      "iconName": "renekton_e.png"
+    },
+    {
+      "spellName": "RenektonDice",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_e2.png",
+      "iconName": "renekton_e2.png"
+    },
+    {
+      "spellName": "RenektonReignOfTheTyrant",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_r.png",
+      "iconName": "renekton_r.png"
+    },
+    {
+      "spellName": "RenektonPredator",
+      "iconAsset": "cache/game/15.1/champion/Renekton/abilities/renekton_passive.png",
+      "iconName": "renekton_passive.png",
+      "isPassive": true
+    }
+  ]
+}

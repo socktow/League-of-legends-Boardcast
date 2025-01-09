@@ -1,0 +1,49 @@
+{
+  "id": 29,
+  "alias": "Twitch",
+  "name": "Twitch",
+  "attackSpeed": 0.679,
+  "splashCenteredImg": "cache/game/15.1/champion/Twitch/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Twitch/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Twitch/loading.png",
+  "squareImg": "cache/game/15.1/champion/Twitch/square.png",
+  "spells": [
+    {
+      "spellName": "TwitchHideInShadows",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_q.png",
+      "iconName": "twitch_q.png"
+    },
+    {
+      "spellName": "TwitchHideInShadowsImproved",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_q.png",
+      "iconName": "twitch_q.png"
+    },
+    {
+      "spellName": "TwitchVenomCask",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_w.png",
+      "iconName": "twitch_w.png"
+    },
+    {
+      "spellName": "TwitchExpunge",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_e.png",
+      "iconName": "twitch_e.png"
+    },
+    {
+      "spellName": "TwitchFullAutomatic",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_r.png",
+      "iconName": "twitch_r.png"
+    },
+    {
+      "spellName": "TwitchDeadlyVenomMarker",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_passive.png",
+      "iconName": "twitch_passive.png",
+      "isPassive": true
+    },
+    {
+      "spellName": "TwitchDeadlyVenom",
+      "iconAsset": "cache/game/15.1/champion/Twitch/abilities/twitch_passive.png",
+      "iconName": "twitch_passive.png",
+      "isPassive": true
+    }
+  ]
+}

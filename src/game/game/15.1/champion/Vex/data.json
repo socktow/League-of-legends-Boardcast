@@ -1,0 +1,43 @@
+{
+  "id": 711,
+  "alias": "Vex",
+  "name": "Vex",
+  "attackSpeed": 0.669,
+  "splashCenteredImg": "cache/game/15.1/champion/Vex/splashCentered.jpg",
+  "splashImg": "cache/game/15.1/champion/Vex/splash.jpg",
+  "loadingImg": "cache/game/15.1/champion/Vex/loading.png",
+  "squareImg": "cache/game/15.1/champion/Vex/square.png",
+  "spells": [
+    {
+      "spellName": "VexR",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_r01.png",
+      "iconName": "icons_vex_r01.png"
+    },
+    {
+      "spellName": "VexR2",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_r02.png",
+      "iconName": "icons_vex_r02.png"
+    },
+    {
+      "spellName": "VexQ",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_q01.png",
+      "iconName": "icons_vex_q01.png"
+    },
+    {
+      "spellName": "VexW",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_w01.png",
+      "iconName": "icons_vex_w01.png"
+    },
+    {
+      "spellName": "VexE",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_e01.png",
+      "iconName": "icons_vex_e01.png"
+    },
+    {
+      "spellName": "VexP",
+      "iconAsset": "cache/game/15.1/champion/Vex/abilities/icons_vex_passive.png",
+      "iconName": "icons_vex_passive.png",
+      "isPassive": true
+    }
+  ]
+}
