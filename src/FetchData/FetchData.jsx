@@ -1,205 +1,126 @@
-import React from "react";
-import { Card, Typography, Row, Col, Divider } from "antd";
+import React, { useMemo, useState } from "react";
+import { Card, Button, Typography, Row, Col, Divider } from "antd";
 import useWebSocket from "./useWebSocket";
 
-const { Title, Text } = Typography;
+const { Title } = Typography;
 
 function FetchData() {
   const rawMessage = useWebSocket(process.env.REACT_APP_WEBSOCKETURL);
 
   // Trích xuất thông tin cần thiết
-  const { gameTime, baronPitTimer, dragonPitTimer, scoreboard, inhibitors } =
-    React.useMemo(() => {
-      if (rawMessage?.state) {
-        return {
-          gameTime: rawMessage.state.gameTime || "N/A",
-          baronPitTimer: rawMessage.state.baronPitTimer || null,
-          dragonPitTimer: rawMessage.state.dragonPitTimer || null,
-          scoreboard: rawMessage.state.scoreboard || null,
-          inhibitors: rawMessage.state.inhibitors || null,
-        };
-      }
+  const {
+    gameTime,
+    baronPitTimer,
+    dragonPitTimer,
+    scoreboard,
+    inhibitors,
+    tabs,
+    scoreboardBottom,
+  } = useMemo(() => {
+    if (rawMessage?.state) {
       return {
-        gameTime: "N/A",
-        baronPitTimer: null,
-        dragonPitTimer: null,
-        scoreboard: null,
-        inhibitors: null,
+        gameTime: rawMessage.state.gameTime || "N/A",
+        baronPitTimer: rawMessage.state.baronPitTimer || null,
+        dragonPitTimer: rawMessage.state.dragonPitTimer || null,
+        scoreboard: rawMessage.state.scoreboard || null,
+        inhibitors: rawMessage.state.inhibitors || null,
+        tabs: rawMessage.state.tabs || null,
+        scoreboardBottom: rawMessage.state.scoreboardBottom || null,
       };
-    }, [rawMessage]);
+    }
+    return {
+      gameTime: "N/A",
+      baronPitTimer: null,
+      dragonPitTimer: null,
+      scoreboard: null,
+      inhibitors: null,
+      tabs: null,
+      scoreboardBottom: null,
+    };
+  }, [rawMessage]);
+
+  const [selectedData, setSelectedData] = useState(null);
+
+  // Xử lý khi nhấn nút
+  const handleButtonClick = (key) => {
+    const dataMap = {
+      "GAME TIME": { gameTime },
+      "BARON PIT": { baronPitTimer },
+      "DRAGON PIT": { dragonPitTimer },
+      SCOREBOARD: { scoreboard },
+      INHIBITORS: { inhibitors },
+      TABS: {
+        tabs: tabs?.map((tab) => ({
+          id: tab.id,
+          players: tab.players.map((player) => ({
+            playerName: player.playerName,
+            championAssets: {
+              id: player.championAssets?.id,
+              name: player.championAssets?.name,
+              squareImg: player.championAssets?.squareImg,
+              splashCenteredImg: player.championAssets?.splashCenteredImg,
+              splashImg: player.championAssets?.splashImg,
+              loadingImg: player.championAssets?.loadingImg,
+            },
+            perks: player.perks?.iconPath,
+            experienceToNextLevel: player.experienceToNextLevel,
+            stacksData: player.stacksData,
+            health: {
+              current: player.health?.current,
+              max: player.health?.max,
+            },
+            resource: {
+              current: player.resource?.current,
+              max: player.resource?.max,
+            },
+            hasBaron: player.hasBaron,
+            hasElder: player.hasElder,
+          })),
+        })),
+      },
+      "SCOREBOARD BOTTOM": { scoreboardBottom },
+    };
+    setSelectedData(dataMap[key]);
+  };
 
   return (
     <div style={{ padding: "20px" }}>
-      <Title level={2}>League of Legends - Timers & Scoreboard</Title>
+      <Title level={2} style={{ textAlign: "center" }}>
+        Game Data
+      </Title>
+      <Divider />
 
-      <Row gutter={[24, 24]}>
-        {/* Game Time */}
-        <Col xs={24} sm={12} lg={8}>
-          <Card title="Game Time" bordered>
-            <Text>{`Game Time: ${gameTime} seconds`}</Text>
-          </Card>
-        </Col>
-
-        {/* Baron Pit Timer */}
-        <Col xs={24} sm={12} lg={8}>
-          <Card title="Baron Pit Timer" bordered>
-            {baronPitTimer ? (
-              <>
-                <img
-                  alt="Baron Pit"
-                  src={`/${baronPitTimer.subType}`}
-                  style={{ width: "20%", marginTop: "10px" }}
-                />
-                <Text>{` - Time Left: ${Math.round(
-                  baronPitTimer.timeLeft
-                )} seconds`}</Text>
-                <br />
-              </>
-            ) : (
-              <Text>No data available</Text>
-            )}
-          </Card>
-        </Col>
-
-        {/* Dragon Pit Timer */}
-        <Col xs={24} sm={12} lg={8}>
-          <Card title="Dragon Pit Timer" bordered>
-            {dragonPitTimer ? (
-              <>
-                <img
-                  src={dragonPitTimer.subType}
-                  alt="Dragon Pit"
-                  style={{ width: "20%", marginTop: "10px" }}
-                />
-                <Text>{` - Time Left: ${Math.round(
-                  dragonPitTimer.timeLeft
-                )} seconds`}</Text>
-                <br />
-              </>
-            ) : (
-              <Text>No data available</Text>
-            )}
-          </Card>
-        </Col>
+      <Row gutter={[16, 16]} justify="center">
+        {[
+          "GAME TIME",
+          "BARON PIT",
+          "DRAGON PIT",
+          "SCOREBOARD",
+          "INHIBITORS",
+          "TABS",
+          "SCOREBOARD BOTTOM",
+        ].map((key) => (
+          <Col key={key}>
+            <Button
+              type="primary"
+              onClick={() => handleButtonClick(key)}
+              style={{ width: "150px" }}
+            >
+              {key}
+            </Button>
+          </Col>
+        ))}
       </Row>
 
       <Divider />
 
-      {/* Scoreboard */}
-      {/* Scoreboard */}
-      {scoreboard?.teams?.map((team, index) => (
-        <Row gutter={[24, 24]} key={index}>
-          <Col span={24}>
-            <Card
-              title={`${team.teamName} - ${team.infoText}`}
-              bordered
-              style={{
-                backgroundColor: index % 2 === 0 ? "#f0f2f5" : "#ffffff",
-              }}
-            >
-              <Row gutter={[16, 16]}>
-                <Col span={12}>
-                  <Text>{`Gold: ${team.gold}`}</Text>
-                  <br />
-                  <Text>{`Kills: ${team.kills}`}</Text>
-                  <br />
-                  <Text>{`Towers: ${team.towers}`}</Text>
-                  <br />
-                  <Text>{`Grubs: ${team.grubs}`}</Text>
-                  <br />
-                  <Text>{`Dragons: ${team.dragons.join(", ")}`}</Text>
-                </Col>
-                <Col span={12}>
-                  {team.baronPowerPlay ? (
-                    <>
-                      <Text>{`Baron PowerPlay - Gold: ${team.baronPowerPlay.gold}`}</Text>
-                      <br />
-                      <Text>{`Baron PowerPlay - Kills: ${team.baronPowerPlay.kills}`}</Text>
-                      <br />
-                      <Text>{`Baron PowerPlay - Deaths: ${team.baronPowerPlay.deaths}`}</Text>
-                      <br />
-                      <Text>{`Baron PowerPlay - Time Left: ${team.baronPowerPlay.timeLeft} seconds`}</Text>
-                      <br />
-                    </>
-                  ) : (
-                    <Text>No Baron PowerPlay</Text>
-                  )}
-                  {team.dragonPowerPlay ? (
-                    <>
-                      <Text>{`Dragon PowerPlay - Gold: ${team.dragonPowerPlay.gold}`}</Text>
-                      <br />
-                      <Text>{`Dragon PowerPlay - Kills: ${team.dragonPowerPlay.kills}`}</Text>
-                      <br />
-                      <Text>{`Dragon PowerPlay - Deaths: ${team.dragonPowerPlay.deaths}`}</Text>
-                      <br />
-                      <Text>{`Dragon PowerPlay - Time Left: ${team.dragonPowerPlay.timeLeft} seconds`}</Text>
-                      <br />
-                    </>
-                  ) : (
-                    <Text>No Dragon PowerPlay</Text>
-                  )}
-                </Col>
-              </Row>
-            </Card>
-          </Col>
-        </Row>
-      ))}
-
-      {/* Gold Comparison */}
-      {(() => {
-        if (scoreboard?.teams?.length === 2) {
-          const [team1, team2] = scoreboard.teams;
-          const goldDiff = Math.abs(team1.gold - team2.gold);
-          const formattedDiff = `${Math.floor(goldDiff / 1000)}k`;
-
-          return (
-            <Row justify="center" style={{ marginTop: "16px" }}>
-              <Text strong>
-                {team1.gold > team2.gold
-                  ? `${team1.teamName} has ${goldDiff} more gold than ${team2.teamName}`
-                  : `${team2.teamName} has ${goldDiff} more gold than ${team1.teamName}`}
-              </Text>
-            </Row>
-          );
-        }
-        return null;
-      })()}
-
-      {/* Inhibitors */}
-      {inhibitors?.map((teamData, teamIndex) => (
-        <div key={teamIndex}>
-          {/* Header Team */}
-          <Title level={4}>{`Team ${teamData.team || "Unknown"} (Side: ${
-            teamData.side || "N/A"
-          })`}</Title>
-          <Row gutter={[24, 24]}>
-            <Col span={24}>
-              <Card
-                title={`Team ${teamData.team} Inhibitors`}
-                bordered
-                style={{
-                  backgroundColor: "#f0f2f5",
-                }}
-              >
-                {teamData.inhibitors.map((inhibitor, index) => (
-                  <div key={index} style={{ marginBottom: "16px" }}>
-                    <Text>{`Inhibitor ${index + 1}`}</Text>
-                    <br />
-                    <Text>{`Time Left: ${
-                      inhibitor.timeLeft || 0
-                    } seconds`}</Text>
-                    <br />
-                    <Text>{`Total Time: ${
-                      inhibitor.timeTotal || 0
-                    } seconds`}</Text>
-                    <br />
-                  </div>
-                ))}
-              </Card>
-            </Col>
-          </Row>
-        </div>
-      ))}
+      <Card title="Selected Data" style={{ marginTop: "20px" }}>
+        <pre style={{ whiteSpace: "pre-wrap", wordBreak: "break-word" }}>
+          {selectedData
+            ? JSON.stringify(selectedData, null, 2)
+            : "No data selected."}
+        </pre>
+      </Card>
     </div>
   );
 }
